@@ -1,0 +1,20 @@
+# Time series identifier: Rainfall.Telemetry@VN_985203_[Vam Kenh]
+# Location identifier: VN_985203_[Vam Kenh]
+# UTC offset: (UTC+07:00)
+# Value units: mm
+# Value parameter: Rainfall
+# Value label: Telemetry
+#
+# Location identifier: VN_985203_[Vam Kenh]
+# Location name: Vam Kenh
+# Country: Viet Nam
+# River: Mekong
+# Latitude: 10.274299621582
+# Longitude: 106.73713684082
+#
+# Disclaimer: The Mekong River Commission make no warranties about this data and disclaim all responsibility and liability for all expenses, losses, damages and costs which may be incurred as a result of the data being inaccurate or incomplete in any way and for any reason. The data contained herein do not imply the expression of any opinion whatsoever on the part of the Mekong River Commission concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delineation of its frontiers or boundaries.
+#
+# Export options: Corrected signal from 2010-05-03T11:45:00Z to 2023-12-07T15:00:00Z
+#
+# Generated at 2023-12-07T22:22:42+07
+#

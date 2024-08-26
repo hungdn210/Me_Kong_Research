@@ -1,0 +1,138 @@
+**********************DOCUMENTATION MEKGIS********************
+
+MEKONG RIVER COMMISSION SECRETARIAT
+WUP-A Project
+Monivong Blvd.
+Phnom Penh, Cambodia
+
+Tel. ++855 23 972
+Fax. ++855 23 979 
+
+email: 
+
+www.mrcmekong.org
+
+
+**************************************************************
+
+
+NAME -------------------------
+
+KeyMonitoringSites.shp
+
+
+AREA -------------------------
+
+Lower Mekong Basin
+
+
+
+DESCRIPTION ------------------
+
+Key Monitoring Sites (Gauging Stations)
+
+
+SOURCE MAP -------------------
+
+Compiled from table of station location (ref WUP-A Project WP14)
+
+
+SOURCE DATA SET --------------
+
+Compiled from table of station location (ref WUP-A Project WP14) which was collated from HYMOS and NMC's
+
+
+SOURCE AGENCY ----------------
+
+
+
+
+GENERATION -------------------
+
+WUP-A Project
+
+
+STATUS -----------------------
+
+Last update: 23 JUN 2003
+Completion status: 100%
+
+
+COMMENTS ---------------------
+
+
+
+
+DOCUMENTATION ----------------
+
+Operator: Meelit
+Date: 26 SEP 2003
+
+
+UNITS ------------------------
+
+Map Units: meters
+System: UTM 48
+Datum: Indian 60
+Spheroid: Everest
+
+
+FORMAT -----------------------
+
+[data set format:]
+
+ArcView Shape File
+
+VECTOR
+Topology types: point
+
+RASTER
+Resolution: 
+
+
+POLYGON ATTRIBUTES -----------
+
+
+
+
+LINE ATTRIBUTES --------------
+
+
+
+
+POINT ATTRIBUTES -------------
+
+NAME
+Chiang Saen
+Luang Prabang
+Vientiane (km 4)
+Nakhon Phanom
+Mukdahan
+Pakse
+Stung Treng
+Kratie
+Pak Mun
+Kampong Luong
+Kampong Chhnang
+Prek Dam
+Phnom Penh (Combined)
+Chau Doc
+Tan Chau
+
+
+
+CELL ATTRIBUTES --------------
+
+
+
+
+UPDATES AND CHANGES ----------
+None as on 26 SEP 2003
+
+Operator: [name]
+Date: [dd MMM yyyy]
+Change: [description]
+Update: [description]
+
+------------------------------
+
