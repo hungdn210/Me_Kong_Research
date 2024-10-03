@@ -1,0 +1,208 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Monospace, Arial, sans-serif;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+span {
+  font-size: 13px;
+}
+/* Forms and Buttons */
+label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+input[type="date"], select {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+
+#settings-panel, #data-visualization-panel {
+  width: 20%;
+  height: 100vh;
+  overflow-y: auto;
+  padding: 20px;
+  box-sizing: border-box;
+  background-color: #f0f0f0;
+}
+
+#map-view {
+  width: 60%;
+  height: 100vh;
+  float: left;
+  position: relative;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+#settings-panel {
+  float: left;
+  background-color: #ffffff;
+  border-right: 1px solid #dddddd;
+}
+
+#data-visualization-panel {
+  float: right;
+  background-color: #ffffff;
+  border-left: 1px solid #dddddd;
+}
+
+/*Data Setting CSS */
+#enviroment_date_text {
+  color: #333;
+}
+
+#not_correct_date_range {
+  color: red;
+  display: none;
+}
+
+.current_selected_element_div {
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.category-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e7f1ff;
+  padding: 5px 10px;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+.delete-icon {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  padding-left: 10px;
+}
+
+.delete-icon:hover {
+  opacity: 0.6;
+}
+
+.station-container {
+  width: 100%;
+  display: flex; 
+  align-items: center;
+  
+}
+.station-container div {
+  flex-grow: 1; /* Allow the station selection to take up available space */
+}
+
+#selected-stations-div {
+  margin-top: 10px;
+  width: 100%;
+}
+.selected-station-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #e7f1ff;
+  padding: 5px 10px;
+  margin: 5px 0px;
+  border-radius: 4px;
+}
+
+#add-stations-div {
+  display: flex; /* Use flexbox to align children */
+  width: 100%; /* Full width of the container */
+  align-items: center; /* Center items vertically */
+  justify-content: space-between; /* Ensure proper spacing between elements */
+  padding: 0; /* Remove any padding */
+  margin: 0; /* Remove any margin */
+  box-sizing: border-box; /* Include padding and border in width calculation */
+}
+
+#add-stations-div-left {
+  flex: 0 0 90%; /* Fix width to 80% of parent */
+  margin-right: 0; /* Remove margin */
+}
+
+#add-stations-div-right {
+  flex: 0 0 15%; /* Slightly reduce width to fit the button properly */
+  display: flex; /* Align the button properly */
+  justify-content: flex-end; /* Push the button to the right */
+  margin-left: 0; /* Remove left margin */
+  padding: 0; /* Remove padding */
+}
+
+#station_select {
+  width: 100%; /* Ensure the select takes the full width of the left div */
+  padding: 5px; /* Adjust padding for better appearance */
+  font-size: 14px; /* Adjust font size as needed */
+  margin: 0;
+}
+
+#add-station-button {
+  margin: 0;
+  padding: 0; 
+  background-color: transparent;
+  background-image: url('./images/add-button.png'); /* Path to your image */
+  background-size: contain; /* Make sure the image fits the button size */
+  background-position: center; 
+  background-repeat: no-repeat; 
+  border: none; 
+  cursor: pointer;
+  display: block; /* Use block to make sure it behaves like a button */
+  width: 40px; /* Set the width for the button */
+  height: 40px; /* Set the height for the button */
+  border-radius: 50%; /* Make the button round */
+  text-indent: -9999px; /* Hide the text */
+}
+
+
+#add-category-button {
+  border-radius: 20px;
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+
+#map {
+  width: 100%;
+  height: 100vh; /* Ensure the map takes up the whole vertical height */
+}
+
+#map-view {
+  width: 60%; /* Adjust the width as needed */
+  float: left;
+}
+
+#generate-visualization {
+  border-radius: 20px;
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  background-color: green;
+}

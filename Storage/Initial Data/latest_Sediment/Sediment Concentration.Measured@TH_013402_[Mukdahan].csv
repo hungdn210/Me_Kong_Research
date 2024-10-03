@@ -1,0 +1,1729 @@
+Country Code,Station Code,Parameter,Label,Timestamp (UTC+07:00),Value,Unit,Observed or Estimated,Approval Level,Grade
+TH,13402,Sediment Concentration,Measured,1962-01-04T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-01-11T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-01-12T00:00Z,90,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-01-18T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-01-27T00:00Z,75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-01-30T00:00Z,65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-06T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-09T00:00Z,46,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-13T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-14T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-16T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-02-21T00:00Z,3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-09T00:00Z,7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-16T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-21T00:00Z,11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-25T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-27T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-03-30T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-02T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-14T00:00Z,457,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-16T00:00Z,42,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-20T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-23T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-04-27T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-02T00:00Z,26,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-10T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-17T00:00Z,177.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-23T00:00Z,153,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-26T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-28T00:00Z,103,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-05-29T00:00Z,91,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-04T00:00Z,271,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-07T00:00Z,165,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-10T00:00Z,63,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-13T00:00Z,542,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-15T00:00Z,280,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-18T00:00Z,832,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-23T00:00Z,744,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-06-25T00:00Z,792,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-03T00:00Z,213,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-06T00:00Z,549,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-13T00:00Z,680,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-17T00:00Z,448,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-20T00:00Z,397,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-23T00:00Z,494,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-07-31T00:00Z,296,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-01T00:00Z,314,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-08T00:00Z,445,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-13T00:00Z,726,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-16T00:00Z,719,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-20T00:00Z,902,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-23T00:00Z,1336,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-27T00:00Z,1512,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-08-30T00:00Z,1000,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-09-03T00:00Z,726,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-09-07T00:00Z,1064,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-09-18T00:00Z,749,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-09-22T00:00Z,541,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-09-24T00:00Z,641,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-10-03T00:00Z,496,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-10-08T00:00Z,438,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-10-09T00:00Z,452,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-10-10T00:00Z,597,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-10-19T00:00Z,308,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-11-17T00:00Z,128.86,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-11-19T00:00Z,157.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-11-27T00:00Z,93.31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-12-04T00:00Z,324.64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-12-11T00:00Z,71.64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-12-20T00:00Z,77.97,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1962-12-27T00:00Z,147.92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-01-02T00:00Z,95.2,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-01-21T00:00Z,56.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-03-06T00:00Z,21.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-03-12T00:00Z,21.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-03-25T00:00Z,29.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-03-29T00:00Z,15.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-04-03T00:00Z,13.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-04-12T00:00Z,10.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-04-18T00:00Z,24.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-04-23T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-05-04T00:00Z,47.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-05-09T00:00Z,15.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-05-17T00:00Z,28.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-05-22T00:00Z,19.6,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-06-27T00:00Z,319.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-07-11T00:00Z,444.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-07-18T00:00Z,510.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-07-26T00:00Z,619.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-08-26T00:00Z,713.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-09-05T00:00Z,738.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-09-12T00:00Z,224.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-09-19T00:00Z,606.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-09-26T00:00Z,345.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-10-04T00:00Z,403.2,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-10-07T00:00Z,377.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-10-19T00:00Z,324.6,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-10-24T00:00Z,363.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-11-01T00:00Z,320.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-11-11T00:00Z,758,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-11-18T00:00Z,527,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-11-22T00:00Z,233.2,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1963-11-25T00:00Z,570,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-02-10T00:00Z,21.46,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-02-24T00:00Z,20.47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-03-09T00:00Z,20.96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-03-24T00:00Z,28.63,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-04-28T00:00Z,19.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-05-11T00:00Z,48.95,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-05-27T00:00Z,137.08,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-05-29T00:00Z,13.2,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-06-05T00:00Z,230.51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-06-16T00:00Z,229.67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-06-29T00:00Z,247.99,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-03T00:00Z,14.06,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-04T00:00Z,319.48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-06T00:00Z,163.83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-10T00:00Z,4.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-13T00:00Z,961.55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-17T00:00Z,3.22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-21T00:00Z,562.43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-07-28T00:00Z,501,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-04T00:00Z,6.76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-14T00:00Z,44.02,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-21T00:00Z,835,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-26T00:00Z,360.21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-27T00:00Z,837.88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-08-28T00:00Z,405,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-09-03T00:00Z,631.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-09-09T00:00Z,67.67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-09-19T00:00Z,52.97,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-09-25T00:00Z,766,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-10-05T00:00Z,914,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-10-10T00:00Z,488,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-10-16T00:00Z,459,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-10-23T00:00Z,488,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-11-03T00:00Z,457,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-11-10T00:00Z,747,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-11-17T00:00Z,383,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-11-24T00:00Z,212,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-11-30T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-12-09T00:00Z,13.97,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-12-14T00:00Z,28.72,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-12-21T00:00Z,17.42,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1964-12-30T00:00Z,12.77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-01-07T00:00Z,58.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-01-11T00:00Z,129.45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-01-22T00:00Z,130.75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-01-26T00:00Z,60.92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-02-03T00:00Z,68.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-02-08T00:00Z,59.16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-02-25T00:00Z,69.87,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-03-09T00:00Z,41.87,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-03-23T00:00Z,38.77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-04-09T00:00Z,59.92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-04-23T00:00Z,38.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-05-08T00:00Z,41.16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-06-11T00:00Z,217.96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-06-14T00:00Z,320.48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-06-20T00:00Z,116.05,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-06-22T00:00Z,242.43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-07-02T00:00Z,368.96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-07-07T00:00Z,430.73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-07-14T00:00Z,295.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-07-21T00:00Z,497.13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-07-31T00:00Z,919.49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-08-04T00:00Z,592.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-08-13T00:00Z,532.04,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-08-17T00:00Z,411.31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-08-24T00:00Z,712.23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-08-31T00:00Z,434,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-09-07T00:00Z,487.67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-09-13T00:00Z,328.11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-09-20T00:00Z,333.58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-10-11T00:00Z,469.06,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-10-22T00:00Z,427.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-10-28T00:00Z,317.85,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-11-02T00:00Z,1006.84,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-11-08T00:00Z,865.52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-11-15T00:00Z,924.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-11-22T00:00Z,311.86,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-12-14T00:00Z,151.35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1965-12-28T00:00Z,356.45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-01-10T00:00Z,163.68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-01-17T00:00Z,326.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-01-26T00:00Z,150.86,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-02-08T00:00Z,77.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-03-04T00:00Z,81.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-05-19T00:00Z,531.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-05-25T00:00Z,124.91,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-05-31T00:00Z,217.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-06-13T00:00Z,286.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-06-24T00:00Z,324.24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-01T00:00Z,533.34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-06T00:00Z,247.16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-07T00:00Z,437,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-12T00:00Z,493.58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-19T00:00Z,463.45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-07-27T00:00Z,583,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-08-03T00:00Z,446.28,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-08-09T00:00Z,950.96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-08-15T00:00Z,515.44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-09-20T00:00Z,575.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-09-29T00:00Z,621.12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-10-09T00:00Z,496.73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-10-12T00:00Z,1236.96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-10-20T00:00Z,751.79,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-10-25T00:00Z,902.73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-10-27T00:00Z,692.31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-11-02T00:00Z,621.22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-11-07T00:00Z,573.67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-11-12T00:00Z,469.87,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-11-17T00:00Z,342.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-11-28T00:00Z,314.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-12-06T00:00Z,228.94,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-12-12T00:00Z,159.24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-12-22T00:00Z,129.6,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1966-12-29T00:00Z,143.25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-01-04T00:00Z,241.09,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-01-20T00:00Z,123.78,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-01-24T00:00Z,35.29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-02-01T00:00Z,225.71,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-02-07T00:00Z,185.88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-02-23T00:00Z,44.04,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-02-24T00:00Z,0.04,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-03-02T00:00Z,101.08,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-03-09T00:00Z,42.54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-03-16T00:00Z,31.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-03-21T00:00Z,135.92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-04-08T00:00Z,77.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-04-11T00:00Z,36.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-05-05T00:00Z,85.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-05-19T00:00Z,85.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-06-02T00:00Z,58.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-06-14T00:00Z,157,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-06-22T00:00Z,210,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-06-29T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-07-05T00:00Z,221,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-07-11T00:00Z,202,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-07-19T00:00Z,251,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-07-26T00:00Z,482,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-08-01T00:00Z,326,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-08-08T00:00Z,693,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-08-16T00:00Z,364,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-08-23T00:00Z,365,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-08-29T00:00Z,580,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-09-06T00:00Z,315,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-09-13T00:00Z,139.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-09-20T00:00Z,227,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-09-27T00:00Z,282.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-10-02T00:00Z,281.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-10-18T00:00Z,413,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-10-26T00:00Z,193.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-11-02T00:00Z,314,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-11-15T00:00Z,123.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-11-23T00:00Z,120,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-11-30T00:00Z,250.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-12-07T00:00Z,224,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-12-13T00:00Z,132.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1967-12-20T00:00Z,104.1,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-02-19T00:00Z,91.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-02-22T00:00Z,39.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-04T00:00Z,69.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-08T00:00Z,65.5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-11T00:00Z,66.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-13T00:00Z,65.6,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-22T00:00Z,53.2,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-03-25T00:00Z,89.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-04-10T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-04-16T00:00Z,23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-05-09T00:00Z,294,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-05-15T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-05-20T00:00Z,152,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-06-10T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-06-17T00:00Z,118,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-06-24T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-06-25T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-07-08T00:00Z,362,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-07-15T00:00Z,197,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-07-19T00:00Z,219,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-07-22T00:00Z,369,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-08-09T00:00Z,274,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-08-13T00:00Z,570,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-08-19T00:00Z,781,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-08-26T00:00Z,435,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-08-30T00:00Z,319,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-09-02T00:00Z,341,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-09-09T00:00Z,423,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-09-23T00:00Z,424,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-09-27T00:00Z,396,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-09-30T00:00Z,302,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-10-07T00:00Z,591,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-10-14T00:00Z,545,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-10-21T00:00Z,413,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-10-25T00:00Z,477,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-03T00:00Z,539,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-15T00:00Z,542,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-18T00:00Z,341,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-22T00:00Z,393,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-25T00:00Z,233,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-11-29T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-12-09T00:00Z,141,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-12-16T00:00Z,113,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-12-19T00:00Z,90,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1968-12-23T00:00Z,83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-01-10T00:00Z,53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-01-15T00:00Z,61,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-01-20T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-01-23T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-01-27T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-02-15T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-02-27T00:00Z,64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-03T00:00Z,51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-10T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-14T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-17T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-21T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-24T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-03-27T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-04-02T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-04-11T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-04-24T00:00Z,11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-04-28T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-05-09T00:00Z,284,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-05-16T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-05-19T00:00Z,20,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-05-23T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-05-26T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-02T00:00Z,23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-06T00:00Z,142,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-13T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-16T00:00Z,168,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-20T00:00Z,294,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-23T00:00Z,148,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-06-27T00:00Z,230,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-04T00:00Z,183,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-11T00:00Z,230,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-14T00:00Z,296,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-19T00:00Z,303,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-23T00:00Z,244,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-07-29T00:00Z,317,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-04T00:00Z,736,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-07T00:00Z,420,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-15T00:00Z,525,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-18T00:00Z,549,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-22T00:00Z,865,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-25T00:00Z,787,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-08-29T00:00Z,602,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-05T00:00Z,289,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-08T00:00Z,364,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-12T00:00Z,315,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-15T00:00Z,434,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-19T00:00Z,605,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-22T00:00Z,449,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-09-30T00:00Z,372,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-06T00:00Z,341,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-10T00:00Z,306,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-13T00:00Z,469,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-20T00:00Z,233,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-24T00:00Z,214,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-27T00:00Z,341,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-10-31T00:00Z,264,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-11-03T00:00Z,199,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-11-07T00:00Z,182,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-11-21T00:00Z,113,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-11-24T00:00Z,118,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-12-01T00:00Z,143,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-12-08T00:00Z,144,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-12-12T00:00Z,121,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-12-15T00:00Z,97,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1969-12-22T00:00Z,109,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-02T00:00Z,92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-05T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-09T00:00Z,27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-10T00:00Z,27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-16T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-01-19T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-02-09T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-02-10T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-02-13T00:00Z,15,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-02-16T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-02-20T00:00Z,11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-03-02T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-03-16T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-03-20T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-03-23T00:00Z,12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-03-27T00:00Z,12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-04-10T00:00Z,6,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-04-13T00:00Z,7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-04-20T00:00Z,13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-04-24T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-05-01T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-05-11T00:00Z,77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-05-22T00:00Z,108,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-05-25T00:00Z,172,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-05-29T00:00Z,542,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-04T00:00Z,74,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-08T00:00Z,133,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-12T00:00Z,127,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-15T00:00Z,182,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-18T00:00Z,217,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-22T00:00Z,235,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-26T00:00Z,240,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-06-29T00:00Z,445,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-10T00:00Z,441,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-13T00:00Z,382,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-17T00:00Z,230,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-20T00:00Z,283,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-24T00:00Z,374,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-27T00:00Z,664,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-07-31T00:00Z,997,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-07T00:00Z,567,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-10T00:00Z,571,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-17T00:00Z,821,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-21T00:00Z,634,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-24T00:00Z,544,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-28T00:00Z,394,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-08-31T00:00Z,393,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-05T00:00Z,400,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-11T00:00Z,380,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-14T00:00Z,409,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-18T00:00Z,493,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-21T00:00Z,342,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-25T00:00Z,383,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-09-29T00:00Z,259,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-01T00:00Z,326,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-10T00:00Z,311,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-12T00:00Z,329,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-16T00:00Z,269,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-19T00:00Z,200,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-10-22T00:00Z,252,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-06T00:00Z,255,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-09T00:00Z,219,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-13T00:00Z,173,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-16T00:00Z,189,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-20T00:00Z,182,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-23T00:00Z,218,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-27T00:00Z,114,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-11-30T00:00Z,107,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-12-07T00:00Z,177,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-12-16T00:00Z,215,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-12-19T00:00Z,184,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-12-23T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1970-12-30T00:00Z,180,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-09T00:00Z,68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-12T00:00Z,73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-15T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-20T00:00Z,57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-23T00:00Z,4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-27T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-01-31T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-02T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-10T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-13T00:00Z,28,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-17T00:00Z,49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-20T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-02-27T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-03-13T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-03-20T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-03-24T00:00Z,18,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-03-27T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-03-31T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-04-03T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-01T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-05T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-15T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-22T00:00Z,25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-26T00:00Z,30,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-05-29T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-05T00:00Z,262,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-09T00:00Z,225,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-12T00:00Z,237,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-19T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-26T00:00Z,209,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-06-28T00:00Z,136,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-07-07T00:00Z,524,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-07-09T00:00Z,352,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-08-28T00:00Z,537,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-01T00:00Z,356,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-04T00:00Z,528,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-08T00:00Z,796,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-11T00:00Z,564,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-16T00:00Z,277,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-20T00:00Z,310,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-09-27T00:00Z,351,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-10-04T00:00Z,473,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-10-09T00:00Z,479,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-10-11T00:00Z,532,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-10-30T00:00Z,194,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-06T00:00Z,266,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-10T00:00Z,302,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-13T00:00Z,343,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-17T00:00Z,249,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-20T00:00Z,194,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-27T00:00Z,134,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-11-29T00:00Z,151,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-06T00:00Z,172,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-10T00:00Z,120,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-15T00:00Z,146,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-18T00:00Z,145,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-23T00:00Z,137,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1971-12-25T00:00Z,132,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-04T00:00Z,67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-08T00:00Z,81,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-12T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-15T00:00Z,55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-19T00:00Z,102,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-01-26T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-03T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-09T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-16T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-19T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-23T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-02-26T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-01T00:00Z,68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-08T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-11T00:00Z,42,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-15T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-18T00:00Z,60,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-22T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-03-29T00:00Z,71,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-04-10T00:00Z,66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-04-15T00:00Z,91,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-04-20T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-04-27T00:00Z,74,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-05-27T00:00Z,160,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-04T00:00Z,157,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-08T00:00Z,154,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-15T00:00Z,179,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-17T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-22T00:00Z,200,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-24T00:00Z,146,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-06-29T00:00Z,153,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-01T00:00Z,142,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-06T00:00Z,199,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-08T00:00Z,157,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-13T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-15T00:00Z,215,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-20T00:00Z,263,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-22T00:00Z,184,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-27T00:00Z,194,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-07-29T00:00Z,432,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-10T00:00Z,434,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-12T00:00Z,195,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-17T00:00Z,210,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-20T00:00Z,440,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-24T00:00Z,398,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-26T00:00Z,389,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-08-31T00:00Z,591,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-07T00:00Z,493,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-10T00:00Z,224,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-14T00:00Z,307,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-16T00:00Z,268,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-21T00:00Z,299,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-23T00:00Z,597,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-28T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-09-30T00:00Z,115,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-07T00:00Z,817,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-12T00:00Z,695,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-14T00:00Z,380,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-19T00:00Z,275,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-26T00:00Z,462,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-10-28T00:00Z,200,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-04T00:00Z,198,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-09T00:00Z,149,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-11T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-16T00:00Z,193,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-18T00:00Z,359,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-23T00:00Z,265,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-11-30T00:00Z,728,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-12-09T00:00Z,200,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-12-14T00:00Z,282,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-12-20T00:00Z,138,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1972-12-22T00:00Z,414,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-03T00:00Z,107,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-08T00:00Z,72,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-12T00:00Z,116,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-16T00:00Z,84,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-20T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-22T00:00Z,90,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-26T00:00Z,68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-01-29T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-09T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-12T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-17T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-20T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-23T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-02-26T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-03-09T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-03-18T00:00Z,78,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-03-21T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-04-11T00:00Z,27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-05T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-09T00:00Z,46,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-12T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-16T00:00Z,101,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-19T00:00Z,157,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-23T00:00Z,82,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-26T00:00Z,136,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-05-30T00:00Z,152,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-06-16T00:00Z,106,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-06-20T00:00Z,141,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-06-23T00:00Z,96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-06-27T00:00Z,203,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-06-30T00:00Z,273,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-07T00:00Z,242,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-11T00:00Z,513,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-14T00:00Z,457,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-21T00:00Z,1080,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-26T00:00Z,355,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-07-28T00:00Z,275,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-04T00:00Z,294,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-09T00:00Z,742,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-11T00:00Z,424,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-16T00:00Z,405,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-18T00:00Z,619,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-21T00:00Z,615,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-25T00:00Z,443,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-08-28T00:00Z,506,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-01T00:00Z,816,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-08T00:00Z,405,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-11T00:00Z,317,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-14T00:00Z,310,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-18T00:00Z,490,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-22T00:00Z,362,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-25T00:00Z,341,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-09-29T00:00Z,336,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-02T00:00Z,833,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-06T00:00Z,350,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-09T00:00Z,312,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-13T00:00Z,311,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-16T00:00Z,326,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-20T00:00Z,241,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-23T00:00Z,212,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-10-30T00:00Z,252,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-03T00:00Z,229,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-07T00:00Z,246,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-10T00:00Z,254,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-13T00:00Z,155,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-17T00:00Z,362,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-24T00:00Z,441,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-11-27T00:00Z,406,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-04T00:00Z,347,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-11T00:00Z,417,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-14T00:00Z,213,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-18T00:00Z,177,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-21T00:00Z,143,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1973-12-25T00:00Z,155,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-08T00:00Z,67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-11T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-15T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-18T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-25T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-01-29T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-02-05T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-02-08T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-02-15T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-03-05T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-03-12T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-03-15T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-03-19T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-03-22T00:00Z,26,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-04-18T00:00Z,25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-04-23T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-04-26T00:00Z,30,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-04-30T00:00Z,59,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-06T00:00Z,57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-10T00:00Z,110,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-14T00:00Z,96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-17T00:00Z,64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-21T00:00Z,78,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-24T00:00Z,87,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-05-28T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-07T00:00Z,96,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-11T00:00Z,279,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-14T00:00Z,154,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-18T00:00Z,237,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-25T00:00Z,248,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-06-27T00:00Z,225,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-03T00:00Z,132,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-05T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-09T00:00Z,286,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-12T00:00Z,258,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-16T00:00Z,209,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-19T00:00Z,224,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-23T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-07-30T00:00Z,311,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-08-06T00:00Z,590,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-08-09T00:00Z,567,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-08-13T00:00Z,630,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-08-27T00:00Z,304,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-08-30T00:00Z,741,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-06T00:00Z,466,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-10T00:00Z,637,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-13T00:00Z,480,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-17T00:00Z,538,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-20T00:00Z,481,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-24T00:00Z,324,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-27T00:00Z,404,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-09-30T00:00Z,529,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-08T00:00Z,426,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-11T00:00Z,456,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-15T00:00Z,352,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-18T00:00Z,361,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-22T00:00Z,295,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-25T00:00Z,270,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-10-29T00:00Z,303,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-04T00:00Z,227,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-07T00:00Z,213,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-11T00:00Z,228,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-18T00:00Z,226,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-21T00:00Z,223,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-25T00:00Z,134,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-11-28T00:00Z,171,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-12-05T00:00Z,142,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-12-09T00:00Z,122,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-12-19T00:00Z,116,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-12-23T00:00Z,104,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1974-12-26T00:00Z,95,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-01-09T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-01-27T00:00Z,59,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-02-10T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-02-17T00:00Z,30,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-02-20T00:00Z,27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-02-27T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-10T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-17T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-20T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-24T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-27T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-03-31T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-04-10T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-04-17T00:00Z,12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-04-21T00:00Z,42,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-04-24T00:00Z,13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-04-28T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-05-05T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-05-08T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-05-19T00:00Z,92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-05-26T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-05-29T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-02T00:00Z,124,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-05T00:00Z,165,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-09T00:00Z,172,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-12T00:00Z,188,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-19T00:00Z,234,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-23T00:00Z,306,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-26T00:00Z,376,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-06-30T00:00Z,275,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-03T00:00Z,241,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-07T00:00Z,223,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-10T00:00Z,207,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-17T00:00Z,198,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-21T00:00Z,183,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1975-07-24T00:00Z,851,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-05-12T00:00Z,107,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-05-16T00:00Z,112,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-05-27T00:00Z,76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-07-22T00:00Z,271,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-07-29T00:00Z,148,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-08-13T00:00Z,489,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-08-24T00:00Z,778,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-08-31T00:00Z,465,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-09-08T00:00Z,280,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-09-22T00:00Z,332,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-09-29T00:00Z,378,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-10-12T00:00Z,278,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-10-19T00:00Z,115,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-11-10T00:00Z,176,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-11-24T00:00Z,146,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1976-11-29T00:00Z,93,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-01-21T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-02-22T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-03-02T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-03-22T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-03-28T00:00Z,28,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-05-10T00:00Z,65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-05-24T00:00Z,53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-05-30T00:00Z,111,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-06-28T00:00Z,103,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-07-25T00:00Z,462,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-07-29T00:00Z,574,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-08-10T00:00Z,504,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-08-23T00:00Z,351,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-08-30T00:00Z,315,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-09-08T00:00Z,310,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-09-21T00:00Z,216,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-09-28T00:00Z,408,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-10-12T00:00Z,348,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-10-24T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-10-31T00:00Z,215,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-11-11T00:00Z,234,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-11-25T00:00Z,210,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-11-30T00:00Z,193,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-12-08T00:00Z,155,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-12-23T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1977-12-29T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-01-11T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-01-25T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-01-30T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-02-21T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-02-28T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-03-25T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-04-05T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-05-11T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-05-25T00:00Z,184,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-05-31T00:00Z,197,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-06-07T00:00Z,251,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-06-21T00:00Z,221,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-06-28T00:00Z,382,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-07-05T00:00Z,262,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-07-12T00:00Z,624,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-07-26T00:00Z,490,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-08-02T00:00Z,1040,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-08-09T00:00Z,397,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-08-23T00:00Z,367,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-08-30T00:00Z,173,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-10-11T00:00Z,355,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-10-25T00:00Z,268,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-11-08T00:00Z,65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-11-22T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-12-20T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1978-12-27T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-01-24T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-01-31T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-02-19T00:00Z,75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-02-26T00:00Z,76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-03-09T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-03-23T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-03-30T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-04-03T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-04-10T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-04-24T00:00Z,64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-05-10T00:00Z,58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-05-24T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-05-31T00:00Z,123,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-06-21T00:00Z,129,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-06-28T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-07-02T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-07-23T00:00Z,307,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-07-30T00:00Z,336,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-08-07T00:00Z,220,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-08-21T00:00Z,435,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-08-28T00:00Z,497,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-09-24T00:00Z,328,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-10-10T00:00Z,447,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-11-23T00:00Z,394,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-11-30T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-12-10T00:00Z,234,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1979-12-24T00:00Z,66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-01-09T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-01-18T00:00Z,68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-01-23T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-01-30T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-03-04T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-03-10T00:00Z,72,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-03-24T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-03-31T00:00Z,23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-04-24T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-04-30T00:00Z,49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-05-10T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-05-26T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-06-10T00:00Z,236,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-07-23T00:00Z,381,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-07-30T00:00Z,645,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-08-07T00:00Z,197,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-08-21T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-10-24T00:00Z,70,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-10-31T00:00Z,75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-11-07T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-11-21T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-12-02T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-12-09T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-12-22T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1980-12-30T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-01-07T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-01-21T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-01-28T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-02-19T00:00Z,95,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-02-25T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-03-05T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-03-12T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-03-26T00:00Z,53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-04-07T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-04-21T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-04-28T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-05-21T00:00Z,219,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-05-27T00:00Z,335,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-06-19T00:00Z,485,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-07-22T00:00Z,474,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-07-30T00:00Z,164,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-08-10T00:00Z,76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-08-24T00:00Z,82,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-08-31T00:00Z,104,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-09-11T00:00Z,72,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-12-10T00:00Z,83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1981-12-23T00:00Z,90,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-01-06T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-01-30T00:00Z,20,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-02-25T00:00Z,55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-03-28T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-04-19T00:00Z,114,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-05-12T00:00Z,231,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-05-28T00:00Z,263,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-06-26T00:00Z,105,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-07-22T00:00Z,817,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-07-29T00:00Z,392,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-08-23T00:00Z,185,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-08-30T00:00Z,252,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-09-22T00:00Z,361,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-09-30T00:00Z,512,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-10-07T00:00Z,432,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-10-21T00:00Z,162,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-11-22T00:00Z,109,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-11-29T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1982-12-27T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-04-04T00:00Z,55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-04-11T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-04-18T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-04-25T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-05-21T00:00Z,150,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-05-28T00:00Z,151,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-06-07T00:00Z,243,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-06-21T00:00Z,375,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-06-28T00:00Z,574,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-07-20T00:00Z,513,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-07-27T00:00Z,728,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-08-21T00:00Z,385,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-08-28T00:00Z,374,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-09-21T00:00Z,159,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-09-28T00:00Z,136,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-10-22T00:00Z,151,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-10-29T00:00Z,141,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-11-21T00:00Z,152,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-12-21T00:00Z,64,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1984-12-28T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1985-01-28T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-04-21T00:00Z,67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-04-24T00:00Z,59,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-05-06T00:00Z,443,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-05-27T00:00Z,71,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-05-29T00:00Z,269,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-06-13T00:00Z,230,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-06-26T00:00Z,374,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-07-11T00:00Z,345,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-07-28T00:00Z,586,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-08-06T00:00Z,1130,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-09-11T00:00Z,455,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-09-27T00:00Z,386,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-09-29T00:00Z,344,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-10-07T00:00Z,330,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-10-26T00:00Z,1130,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-11-12T00:00Z,427,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-11-19T00:00Z,123,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1986-12-12T00:00Z,206,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1987-01-12T00:00Z,70,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1987-01-22T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1987-08-11T00:00Z,1060,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1987-08-24T00:00Z,1490,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-08-09T00:00Z,67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-08-23T00:00Z,563,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-09-20T00:00Z,595,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-09-27T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-10-11T00:00Z,75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1988-10-25T00:00Z,925,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-02-08T00:00Z,227,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-03-08T00:00Z,300,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-03-20T00:00Z,271,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-04-20T00:00Z,315,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-07-07T00:00Z,440,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-08-07T00:00Z,425,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-09-12T00:00Z,655,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-09-26T00:00Z,705,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-10-10T00:00Z,508,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-10-30T00:00Z,557,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1989-12-11T00:00Z,358,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-01-09T00:00Z,118,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-03-06T00:00Z,82,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-04-10T00:00Z,87,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-04-24T00:00Z,102,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-05-29T00:00Z,300,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-06-11T00:00Z,718,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-07-10T00:00Z,739,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-07-24T00:00Z,853,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-08-07T00:00Z,1070,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-08-21T00:00Z,688,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-11-13T00:00Z,386,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-11-27T00:00Z,300,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-12-11T00:00Z,196,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1990-12-25T00:00Z,114,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-01-08T00:00Z,94,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-02-05T00:00Z,207,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-03-05T00:00Z,75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-04-02T00:00Z,14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-05-07T00:00Z,114,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-06-04T00:00Z,104,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-07-09T00:00Z,701,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-07-31T00:00Z,590,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-08-06T00:00Z,703,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-08-20T00:00Z,943,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-08-29T00:00Z,837,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-09-10T00:00Z,865,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-09-24T00:00Z,885,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-10-01T00:00Z,1195,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-10-08T00:00Z,1327,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-10-29T00:00Z,669,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-11-12T00:00Z,915,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-11-26T00:00Z,938,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1991-12-09T00:00Z,224,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-01-07T00:00Z,100,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-02-04T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-03-24T00:00Z,12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-04-07T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-05-26T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-06-09T00:00Z,101,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-07-07T00:00Z,105,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-07-21T00:00Z,606,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-07-28T00:00Z,239,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-08-04T00:00Z,467,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-08-11T00:00Z,483,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-08-27T00:00Z,292,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-09-01T00:00Z,127,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-09-08T00:00Z,231,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-09-22T00:00Z,272,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-09-29T00:00Z,525,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-10-06T00:00Z,368,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-10-20T00:00Z,309,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-10-27T00:00Z,748,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-11-24T00:00Z,213,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1992-12-08T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-01-05T00:00Z,25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-02-23T00:00Z,23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-03-23T00:00Z,32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-04-05T00:00Z,51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-05-04T00:00Z,60,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-06-01T00:00Z,89,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-07-20T00:00Z,456,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-07-27T00:00Z,217,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-08-10T00:00Z,268,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-08-24T00:00Z,436,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-08-31T00:00Z,493,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-09-07T00:00Z,623,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-09-21T00:00Z,451,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-09-28T00:00Z,435,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-10-05T00:00Z,370,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-10-12T00:00Z,372,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-10-26T00:00Z,254,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-11-23T00:00Z,198,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1993-12-07T00:00Z,137,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-01-04T00:00Z,128,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-02-08T00:00Z,33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-03-08T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-04-05T00:00Z,94,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-05-03T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-06-07T00:00Z,227,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-07-05T00:00Z,854,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-07-19T00:00Z,416,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-07-26T00:00Z,1250,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-08-05T00:00Z,553,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-08-09T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-08-23T00:00Z,325,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-09-06T00:00Z,648,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-09-20T00:00Z,347,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-09-27T00:00Z,217,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-09-30T00:00Z,249,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-10-04T00:00Z,494,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-10-25T00:00Z,328,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-11-06T00:00Z,648,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-11-22T00:00Z,67,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-11-30T00:00Z,249,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1994-12-27T00:00Z,77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-01-24T00:00Z,15,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-02-21T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-03-21T00:00Z,54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-04-04T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-06-06T00:00Z,215,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-07-04T00:00Z,645,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-07-11T00:00Z,285,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-07-25T00:00Z,748,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-08-08T00:00Z,245,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-08-22T00:00Z,938,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-09-05T00:00Z,433,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-09-12T00:00Z,188,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-09-26T00:00Z,497,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-10-03T00:00Z,752,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-10-16T00:00Z,449,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-10-24T00:00Z,489,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-11-07T00:00Z,296,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1995-12-26T00:00Z,73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-01-23T00:00Z,66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-02-06T00:00Z,77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-03-05T00:00Z,16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-04-23T00:00Z,39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-05-07T00:00Z,104,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-06-04T00:00Z,81,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-07-02T00:00Z,209,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-07-09T00:00Z,198,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-07-23T00:00Z,398,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-08-06T00:00Z,499,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-08-20T00:00Z,552,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-08-26T00:00Z,458,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-09-03T00:00Z,424,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-09-10T00:00Z,440,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-09-24T00:00Z,185,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-10-08T00:00Z,243,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-10-22T00:00Z,274,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-10-29T00:00Z,362,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1996-12-10T00:00Z,136,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-01-07T00:00Z,45,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-02-04T00:00Z,44,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-02-11T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-02-25T00:00Z,13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-03-04T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-03-11T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-03-25T00:00Z,28,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-04-08T00:00Z,40,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-04-22T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-04-29T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1997-12-23T00:00Z,76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-01-06T00:00Z,41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-02-03T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-02-10T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-02-17T00:00Z,20,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-02-24T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-03-03T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-03-10T00:00Z,35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-03-24T00:00Z,29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-04-07T00:00Z,38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-04-21T00:00Z,18,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-04-28T00:00Z,34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-06-02T00:00Z,265,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-06-09T00:00Z,276,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-06-23T00:00Z,149,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-07-07T00:00Z,638,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-07-14T00:00Z,773,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-07-21T00:00Z,825,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-07-28T00:00Z,697,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-08-04T00:00Z,338,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-08-11T00:00Z,251,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-08-18T00:00Z,332,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-08-25T00:00Z,443,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-09-08T00:00Z,712,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-09-15T00:00Z,1460,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-09-22T00:00Z,598,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-09-29T00:00Z,1305,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-10-06T00:00Z,400,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-10-13T00:00Z,544,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-10-20T00:00Z,237,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-10-27T00:00Z,354,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-11-10T00:00Z,303,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-11-17T00:00Z,187,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-11-24T00:00Z,134,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-12-08T00:00Z,86,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1998-12-22T00:00Z,55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-01-05T00:00Z,101,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-01-19T00:00Z,58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-02-02T00:00Z,18,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-02-09T00:00Z,3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-02-16T00:00Z,25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-02-23T00:00Z,12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-03-02T00:00Z,36,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-03-09T00:00Z,72,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-03-23T00:00Z,5,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-03-30T00:00Z,48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-04-06T00:00Z,11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-04-20T00:00Z,108,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-04-27T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-05-04T00:00Z,82,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-05-11T00:00Z,257,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-05-18T00:00Z,163,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-05-25T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-06-08T00:00Z,167,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-06-15T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-06-22T00:00Z,282,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-06-29T00:00Z,384,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-07-06T00:00Z,467,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-07-13T00:00Z,631,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-07-20T00:00Z,807,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-07-27T00:00Z,610,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-08-03T00:00Z,364,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-08-10T00:00Z,602,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-08-17T00:00Z,727,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-08-24T00:00Z,547,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-09-07T00:00Z,1520,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-09-14T00:00Z,1020,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-09-21T00:00Z,1120,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-09-28T00:00Z,462,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-10-05T00:00Z,860,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-10-12T00:00Z,450,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-10-19T00:00Z,592,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-10-27T00:00Z,717,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-11-02T00:00Z,533,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-11-09T00:00Z,776,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-11-16T00:00Z,971,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-11-23T00:00Z,645,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-12-07T00:00Z,184,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,1999-12-21T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-01-05T00:00Z,121,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-01-18T00:00Z,69,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-02-08T00:00Z,25,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-02-15T00:00Z,88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-02-22T00:00Z,57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-02-29T00:00Z,66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-03-07T00:00Z,10,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-03-14T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-03-21T00:00Z,15,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-04-04T00:00Z,31,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-04-18T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-05-09T00:00Z,146,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-05-16T00:00Z,441,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-05-23T00:00Z,225,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-05-30T00:00Z,662,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-06-06T00:00Z,456,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-06-13T00:00Z,565,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-06-20T00:00Z,669,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-06-27T00:00Z,468,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-07-04T00:00Z,821,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-07-11T00:00Z,976,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-07-18T00:00Z,1140,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-07-25T00:00Z,977,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-08-08T00:00Z,706,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-08-15T00:00Z,530,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-08-22T00:00Z,740,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-08-29T00:00Z,796,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-09-05T00:00Z,396,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-09-12T00:00Z,1450,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-09-19T00:00Z,592,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-09-26T00:00Z,387,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-10-03T00:00Z,1070,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-10-10T00:00Z,759,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-10-17T00:00Z,442,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-10-24T00:00Z,462,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-11-07T00:00Z,486,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-11-14T00:00Z,441,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-11-21T00:00Z,380,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-11-28T00:00Z,300,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-12-12T00:00Z,212,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2000-12-26T00:00Z,166,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-01-09T00:00Z,147,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-01-23T00:00Z,149,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-02-06T00:00Z,120,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-02-13T00:00Z,151,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-02-20T00:00Z,84,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-02-27T00:00Z,99,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-03-06T00:00Z,52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-03-13T00:00Z,47,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-03-20T00:00Z,66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-03-27T00:00Z,86,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-04-10T00:00Z,53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-04-24T00:00Z,78,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-05-08T00:00Z,199,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-05-15T00:00Z,261,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-05-22T00:00Z,584,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-05-29T00:00Z,519,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-06-05T00:00Z,421,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-06-12T00:00Z,509,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-06-19T00:00Z,478,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-06-26T00:00Z,389,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-07-03T00:00Z,449,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-07-10T00:00Z,1182,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-07-17T00:00Z,1381,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-07-24T00:00Z,622,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-08-07T00:00Z,728,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-08-15T00:00Z,707,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-08-21T00:00Z,711,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-08-28T00:00Z,584,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-09-04T00:00Z,486,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-09-11T00:00Z,868,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-09-18T00:00Z,1156,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-09-25T00:00Z,974,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-10-09T00:00Z,600,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-10-16T00:00Z,375,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-10-24T00:00Z,568,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-10-30T00:00Z,454,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-11-06T00:00Z,421,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-11-13T00:00Z,744,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-11-20T00:00Z,905,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-11-27T00:00Z,289,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-12-03T00:00Z,210,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2001-12-18T00:00Z,100,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-01-08T00:00Z,50,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-01-22T00:00Z,19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-02-05T00:00Z,211,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-02-19T00:00Z,174,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-03-06T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-03-19T00:00Z,157,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-04-10T00:00Z,20,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-04-23T00:00Z,17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-05-08T00:00Z,135,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-05-14T00:00Z,164,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-05-21T00:00Z,389,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-05-29T00:00Z,526,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-06-04T00:00Z,659,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-06-11T00:00Z,732,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-06-18T00:00Z,513,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-06-25T00:00Z,455,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-07-09T00:00Z,400,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-07-16T00:00Z,708,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-07-23T00:00Z,207,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-07-30T00:00Z,943,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-08-06T00:00Z,1714,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-08-14T00:00Z,948,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-08-20T00:00Z,477,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-08-27T00:00Z,980,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-09-03T00:00Z,983,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-09-10T00:00Z,1349,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-09-17T00:00Z,1076,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-09-24T00:00Z,1370,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-10-08T00:00Z,564,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-10-15T00:00Z,689,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-10-22T00:00Z,583,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-10-29T00:00Z,432,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-11-05T00:00Z,244,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-11-12T00:00Z,279,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-11-19T00:00Z,217,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-11-26T00:00Z,220,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-12-12T00:00Z,56,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2002-12-24T00:00Z,21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-01-07T00:00Z,176,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-01-21T00:00Z,222,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-02-04T00:00Z,149,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-02-19T00:00Z,129,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-03-12T00:00Z,83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-03-19T00:00Z,73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-04-09T00:00Z,23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-04-22T00:00Z,28,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-05-07T00:00Z,81,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-05-13T00:00Z,62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-05-20T00:00Z,82,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-05-27T00:00Z,51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-06-03T00:00Z,142,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-06-10T00:00Z,225,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-06-17T00:00Z,142,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-06-24T00:00Z,356,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-07-08T00:00Z,393,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-07-15T00:00Z,390,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-07-22T00:00Z,398,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-07-29T00:00Z,360,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-08-05T00:00Z,289,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-08-13T00:00Z,303,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-08-19T00:00Z,300,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-08-27T00:00Z,549,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-09-02T00:00Z,293,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-09-09T00:00Z,280,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-09-16T00:00Z,370,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-09-23T00:00Z,358,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-10-07T00:00Z,632,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-10-14T00:00Z,1237,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-10-21T00:00Z,689,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-10-28T00:00Z,798,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-11-04T00:00Z,196,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-11-11T00:00Z,192,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-11-18T00:00Z,183,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-11-25T00:00Z,92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-12-09T00:00Z,73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2003-12-24T00:00Z,93,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-01-06T00:00Z,130,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-01-20T00:00Z,15,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-02-10T00:00Z,43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-02-24T00:00Z,37,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-03-09T00:00Z,30,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-03-23T00:00Z,92,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-04-07T00:00Z,22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-04-20T00:00Z,27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-05-03T00:00Z,24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-05-11T00:00Z,65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-05-18T00:00Z,59,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-05-23T00:00Z,173,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-06-08T00:00Z,414,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-06-15T00:00Z,655,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-06-22T00:00Z,465,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-06-29T00:00Z,375,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-07-06T00:00Z,231,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-07-13T00:00Z,328,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-07-20T00:00Z,489,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-07-27T00:00Z,337,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-08-04T00:00Z,459,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-08-10T00:00Z,240,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-08-18T00:00Z,786,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-08-24T00:00Z,218,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-09-07T00:00Z,502,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-09-14T00:00Z,323,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-09-21T00:00Z,425,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-09-28T00:00Z,301,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-10-05T00:00Z,359,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-10-12T00:00Z,224,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-10-19T00:00Z,446,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-10-28T00:00Z,405,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-11-02T00:00Z,582,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-11-09T00:00Z,1090,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-11-16T00:00Z,1101,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-11-26T00:00Z,952,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-12-08T00:00Z,55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2004-12-21T00:00Z,49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-01-11T00:00Z,71.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-01-25T00:00Z,49.11,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-02-08T00:00Z,29.06,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-02-22T00:00Z,37.12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-03-08T00:00Z,53.65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-03-22T00:00Z,37.49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-04-05T00:00Z,26.71,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-04-20T00:00Z,21.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-05-03T00:00Z,20.49,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-05-10T00:00Z,10.29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-05-17T00:00Z,21.22,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-05-25T00:00Z,24.54,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-06-07T00:00Z,103.43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-06-14T00:00Z,226.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-06-21T00:00Z,237.83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-06-28T00:00Z,313.29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-07-05T00:00Z,198.4,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-07-14T00:00Z,288.78,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-07-19T00:00Z,230.69,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-07-27T00:00Z,526.13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-08-02T00:00Z,389.52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-08-09T00:00Z,559.27,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-08-16T00:00Z,264.74,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-08-23T00:00Z,439.12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-09-06T00:00Z,261.14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-09-13T00:00Z,447.53,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-09-20T00:00Z,482.84,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-09-27T00:00Z,458.58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-10-04T00:00Z,460.34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-10-11T00:00Z,497.66,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-10-15T00:00Z,358.84,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-10-26T00:00Z,294.69,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-11-08T00:00Z,239.76,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-11-15T00:00Z,533.94,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-11-22T00:00Z,191.38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-11-29T00:00Z,185.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-12-07T00:00Z,179.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2005-12-20T00:00Z,115.75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-01-23T00:00Z,74.01,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-02-21T00:00Z,171.8,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-03-07T00:00Z,27.58,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-03-21T00:00Z,46.09,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-04-05T00:00Z,40.21,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-04-25T00:00Z,254.88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-05-01T00:00Z,34.79,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-05-09T00:00Z,107.52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-05-16T00:00Z,176.14,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-05-23T00:00Z,93.23,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-06-06T00:00Z,213.32,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-06-13T00:00Z,159.62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-06-20T00:00Z,301.12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-06-27T00:00Z,168.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-07-04T00:00Z,477.18,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-07-11T00:00Z,477.39,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-07-18T00:00Z,437.52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-07-25T00:00Z,980.77,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-08-08T00:00Z,464.83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-08-16T00:00Z,549.71,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-08-22T00:00Z,237.74,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-08-29T00:00Z,822.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-09-05T00:00Z,882.48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-09-12T00:00Z,401.89,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-09-19T00:00Z,327.98,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-09-26T00:00Z,491.16,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-10-03T00:00Z,652.15,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-10-10T00:00Z,349.75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-10-17T00:00Z,821.41,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-10-25T00:00Z,583.69,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-11-07T00:00Z,425.52,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-11-14T00:00Z,227.88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-11-21T00:00Z,179.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-11-28T00:00Z,120.19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-12-19T00:00Z,90.02,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2006-12-26T00:00Z,49.55,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-01-09T00:00Z,71.38,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-01-23T00:00Z,52.48,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-02-06T00:00Z,64.17,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-02-20T00:00Z,30.24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-03-14T00:00Z,38.24,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-03-20T00:00Z,37.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-04-10T00:00Z,20.19,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-04-24T00:00Z,378.12,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-05-09T00:00Z,361.51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-05-15T00:00Z,387.73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-05-22T00:00Z,302.9,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-05-28T00:00Z,233.62,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-06-05T00:00Z,257.75,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-06-12T00:00Z,152.88,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-06-19T00:00Z,226.46,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-06-26T00:00Z,212.13,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-07-03T00:00Z,662.29,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-07-10T00:00Z,140.73,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-07-17T00:00Z,149.51,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-07-24T00:00Z,85.98,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-08-07T00:00Z,685.83,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-08-15T00:00Z,348.3,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-08-22T00:00Z,321.98,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-08-28T00:00Z,320.33,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-09-04T00:00Z,477.09,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-09-11T00:00Z,597.65,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-09-18T00:00Z,520.7,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-09-25T00:00Z,796.57,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-10-09T00:00Z,367.89,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-10-23T00:00Z,405.68,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-11-06T00:00Z,457.43,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-11-14T00:00Z,181.02,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-11-20T00:00Z,274.69,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-11-27T00:00Z,140.34,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-12-04T00:00Z,227.35,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured,2007-12-18T00:00Z,262.81,ppm,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-01-05T17:00Z,87.14,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-01-19T17:00Z,71.46,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-02-02T17:00Z,85.18,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-02-23T17:00Z,184.48,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-03-02T17:00Z,36.52,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-03-23T17:00Z,10.39,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-04-07T17:00Z,26.31,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-04-27T17:00Z,112.83,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-05-05T17:00Z,158.62,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-05-12T17:00Z,67.85,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-05-18T17:00Z,65.73,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-05-25T17:00Z,301.35,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-06-04T17:00Z,244.93,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-06-08T17:00Z,207.08,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-06-15T17:00Z,257.598,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-06-22T17:00Z,204.468,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-07-09T17:00Z,664.666,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-07-13T17:00Z,1264.732,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-07-20T17:00Z,554.46,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-07-28T17:00Z,347.628,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-08-03T17:00Z,305.284,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-08-10T17:00Z,430.168,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-08-17T17:00Z,473.914,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-08-24T17:00Z,557.576,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-09-07T17:00Z,667.35,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-09-14T17:00Z,648.386,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-09-21T17:00Z,408.324,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-09-28T17:00Z,530.25,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-10-05T17:00Z,371.72,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-10-12T17:00Z,333.62,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-10-19T17:00Z,254.79,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-10-26T17:00Z,186.56,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-11-02T17:00Z,293.814,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-11-09T17:00Z,167.206,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-11-23T17:00Z,137.251,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-12-08T17:00Z,108.833,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-12-21T17:00Z,141.65,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2009-12-28T17:00Z,117.983,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-01-11T17:00Z,51.028,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-01-25T17:00Z,55.318,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-02-08T17:00Z,43.504,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-02-22T17:00Z,30.056,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-03-08T17:00Z,31.89,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-03-15T17:00Z,25.072,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-03-22T17:00Z,18.43,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-03-29T17:00Z,45.548,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-04-06T17:00Z,20.524,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-04-19T17:00Z,20.524,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-04-26T17:00Z,64.248,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-04-29T17:00Z,29.792,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-05-03T17:00Z,61.882,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-05-10T17:00Z,74.032,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-05-17T17:00Z,54.386,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-05-24T17:00Z,79.606,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-06-07T17:00Z,153.158,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-06-14T17:00Z,234.214,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-06-21T17:00Z,169.84,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-06-28T17:00Z,185.532,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-07-05T17:00Z,271.184,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-07-12T17:00Z,362.354,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-07-19T17:00Z,809.504,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-07-28T17:00Z,719.762,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-08-02T17:00Z,726.894,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-08-09T17:00Z,584.116,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-08-16T17:00Z,520.224,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-08-24T17:00Z,539.992,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-09-06T17:00Z,583.482,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-09-13T17:00Z,297.108,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-09-20T17:00Z,671.836,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-09-27T17:00Z,415.888,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-10-04T17:00Z,477.902,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-10-11T17:00Z,278.62,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-10-18T17:00Z,552.552,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-10-26T17:00Z,428.638,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-11-01T17:00Z,323.61,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-11-08T17:00Z,194.5,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-11-22T17:00Z,167.446,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-12-07T17:00Z,110.536,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-12-20T17:00Z,201.864,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2010-12-27T17:00Z,155.654,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-01-10T17:00Z,72.38,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-01-17T17:00Z,48.47,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-02-07T17:00Z,36.36,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-02-21T17:00Z,32.23,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-03-07T17:00Z,49.04,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-03-21T17:00Z,59,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-04-04T17:00Z,59.5,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-04-18T17:00Z,25.81,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-05-02T17:00Z,58.6,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-05-09T17:00Z,77.14,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-05-18T17:00Z,205.85,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-05-23T17:00Z,242.41,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-06-06T17:00Z,214.92,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-06-13T17:00Z,300.03,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-06-20T17:00Z,194.6,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-06-27T17:00Z,661.48,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-07-04T17:00Z,409.12,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-07-11T17:00Z,439.83,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-07-19T17:00Z,287.78,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-07-25T17:00Z,433.75,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-08-01T17:00Z,409.12,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-08-08T17:00Z,331.46,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-08-15T17:00Z,287.78,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-08-22T17:00Z,433.75,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-09-05T17:00Z,329.87,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-09-12T17:00Z,326.87,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-09-19T17:00Z,304.24,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-09-26T17:00Z,546.94,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-10-03T17:00Z,381.2,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-10-10T17:00Z,254.7,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-10-17T17:00Z,207.07,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-10-25T17:00Z,123.5,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-11-07T17:00Z,96.65,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-11-21T17:00Z,215.91,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-12-06T17:00Z,64.95,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2011-12-19T17:00Z,54.4,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-01-09T17:00Z,26.62283326,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-01-23T17:00Z,41.79998062,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-02-06T17:00Z,21.10587159,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-02-20T17:00Z,11.39040953,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-03-05T17:00Z,9.130643459,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-03-19T17:00Z,7.114778668,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-04-02T17:00Z,9.196783604,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-04-24T17:00Z,10.57235466,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-05-14T17:00Z,10.57235466,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-05-21T17:00Z,86.25095441,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-07-02T17:00Z,249.1152572,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-07-09T17:00Z,174.6453929,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-07-16T17:00Z,145.8281348,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-07-23T17:00Z,66.45863696,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-08-06T17:00Z,575.7587546,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-08-14T17:00Z,1119.052213,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-08-20T17:00Z,277.7326537,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-08-27T17:00Z,522.3417695,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-09-03T17:00Z,298.5537097,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-09-10T17:00Z,330.4530072,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-09-17T17:00Z,271.3057786,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-09-24T17:00Z,333.7515131,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-10-01T17:00Z,211.9893334,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-10-08T17:00Z,243.4822652,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-10-15T17:00Z,358.0293942,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-10-23T17:00Z,178.911224,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-11-07T17:00Z,188.4882109,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-11-12T17:00Z,113.0888426,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-11-19T17:00Z,156.5018358,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-11-26T17:00Z,154.0275775,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-12-03T17:00Z,221.4684359,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2012-12-23T17:00Z,200.8099681,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-01-07T17:00Z,33.138,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-01-20T17:00Z,74.02,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-02-04T17:00Z,96.044,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-02-18T17:00Z,90.056,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-03-04T17:00Z,65.142,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-03-18T17:00Z,59.118,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-04-01T17:00Z,55.926,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-04-22T17:00Z,55.978,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-05-07T17:00Z,78.584,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-05-21T17:00Z,182.106,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-06-03T17:00Z,168.568,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-06-10T17:00Z,171.804,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-06-17T17:00Z,249.384,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2013-06-26T17:00Z,566.842,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-09-08T17:00Z,291.500051,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-09-18T17:00Z,255.1040735,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-09-22T17:00Z,292.9757503,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-10-06T17:00Z,238.1456266,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-10-13T17:00Z,180.7473658,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-10-20T17:00Z,159.0700844,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-10-27T17:00Z,103.4112089,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-11-10T17:00Z,88.40773269,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-11-24T17:00Z,81.46274073,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-12-08T17:00Z,34.60598389,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2014-12-22T17:00Z,34.16589676,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-01-12T17:00Z,27.31458501,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-01-26T17:00Z,46.38824797,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-02-09T17:00Z,61.14931969,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-02-23T17:00Z,33.14923565,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-03-09T17:00Z,14.67179634,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-03-23T17:00Z,35.63915188,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-04-07T17:00Z,16.19334714,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-04-20T17:00Z,31.23250694,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-05-04T17:00Z,35.62750138,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-05-25T17:00Z,44.85117768,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-06-08T17:00Z,63.06112407,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-06-15T17:00Z,118.3786433,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-06-29T17:00Z,65.95792043,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-07-06T17:00Z,33.6007174,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-07-13T17:00Z,47.51068367,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-07-20T17:00Z,180.9077611,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2015-07-27T17:00Z,219.3978465,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-06-04T17:00Z,85.66283848,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-06-18T17:00Z,83.50293886,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-07-08T17:00Z,317.1304232,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-07-16T17:00Z,184.9952326,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-07-23T17:00Z,153.7174854,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-08-06T17:00Z,326.2394999,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-08-14T17:00Z,462.6107905,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-08-20T17:00Z,288.4564799,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-08-27T17:00Z,256.7903119,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-09-10T17:00Z,416.8182237,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-09-17T17:00Z,195.7988062,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2018-09-24T17:00Z,197.8268987,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-04-01T17:00Z,45.45,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-04-17T17:00Z,54.54,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-05-06T17:00Z,59.91582772,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-05-21T17:00Z,74.98064658,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-06-04T17:00Z,108.8156927,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-06-17T17:00Z,74.78992668,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-07-01T17:00Z,46.54942238,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-07-08T17:00Z,124.1766751,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-07-17T17:00Z,105.3450368,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-07-22T17:00Z,79.87655605,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-08-05T17:00Z,63.31721381,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-08-13T17:00Z,86.82275958,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-08-19T17:00Z,155.6227423,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-08-26T17:00Z,109.8763109,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-09-02T17:00Z,133.0888166,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-09-09T17:00Z,102.9273551,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-09-16T17:00Z,89.96965526,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-09-23T17:00Z,73.56878834,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-10-09T17:00Z,38.43432632,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-10-15T17:00Z,33.3447855,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-10-21T17:00Z,735.4468864,mg/l,O,Raw - Not Yet Reviewed,Unverified data
+TH,13402,Sediment Concentration,Measured DSMP,2019-10-28T17:00Z,152.1712054,mg/l,O,Raw - Not Yet Reviewed,Unverified data
