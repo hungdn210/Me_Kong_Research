@@ -4,7 +4,7 @@ from visualization import generate_visualizations  # Import the visualization ge
 
 app = Flask(__name__)
 
-# Route to render the main index.html page
+# Route to render the main index.html page 
 @app.route('/')
 def index():
     return render_template('index.html')
@@ -24,29 +24,27 @@ def mekong_geojson():
 @app.route('/generate_visualization', methods=['POST'])
 def generate_visualization():
     try:
-        selected_categories = request.json  # Receive the selected categories as JSON
+        selected_categories = request.json
+        print("Selected Categories:", selected_categories)  # Log the received data
+
         if not selected_categories:
             raise ValueError("No categories provided")
 
-        print("Received categories:", selected_categories)  # Debugging received data
+        generate_visualizations(selected_categories)  # Function to generate plots
 
-        # Call the function to generate the visualizations
-        generate_visualizations(selected_categories)
-
-        # Collect all generated chart paths
         chart_paths = []
         for category in selected_categories:
             for station in category['stations']:
-                chart_path = f"./static/images/{category['categoryName']}_{station}.png"
+                chart_path = f"./static/images/storage-data-img/{category['categoryName']}_{station}.png"
                 chart_paths.append(chart_path)
 
         return jsonify({'charts': chart_paths})
 
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Error: {e}")  # Log the error for debugging
         return jsonify({'error': str(e)}), 400
-
 
 
 if __name__ == '__main__':
     app.run(debug=True)
+

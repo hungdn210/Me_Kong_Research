@@ -5,11 +5,14 @@ let not_correct_date_range_element = document.getElementById('not_correct_date_r
 
 // Define the array to hold environmental data
 let selectedStations = []; // Array to store selected stations
-let environmental_date_list = [];
+let environmental_date_list = []; 
 let selectedCategories = [];
+let stationLocationData = [];
 var curSelectedCategory;
+var map; // Declare map globally
+stationMarkers = [];
 
-function loadCSVData() {
+function loadCSVDataForCategoriesDetails() {
   Papa.parse("../static/data/overall_station_summary.csv", {
     download: true,
     header: true,
@@ -49,6 +52,34 @@ function loadCSVData() {
   });
 }
 
+function loadCSVStationLocationData() {
+  Papa.parse("../static/data/ListOfStationLocations.csv", {
+      download: true,
+      header: true, // This makes sure we are treating the first row as the header
+      complete: function(results) {
+          // Process the CSV data and push each row into the stationLocationData array
+          results.data.forEach(row => {
+              const station = {
+                  STCODE: row.STCODE,
+                  STNAME: row.STNAME,
+                  COUNTRY: row.COUNTRY,
+                  LONGDEC: parseFloat(row.LONGDEC),
+                  LAT_DEC: parseFloat(row.LAT_DEC),
+                  ALT: parseFloat(row.ALT),
+                  X_UTM: parseInt(row.X_UTM, 10),
+                  Y_UTM: parseInt(row.Y_UTM, 10)
+              };
+              stationLocationData.push(station); // Add each station object to the array
+          });
+
+          console.log("Station location data loaded:", stationLocationData); // Debugging
+      },
+      error: function(error) {
+          console.error("Error loading station location CSV:", error); // Handle errors
+      }
+  });
+}
+
 function updateEnviromentalDate(category_id) {
   // Update the current selected category name
   curSelectedCategory = category_id;
@@ -74,6 +105,7 @@ function updateEnviromentalDate(category_id) {
 
   // Update the stations dropdown based on the selected category
   updateStationsDropdown(environmental_date_list[category_id].stations);
+  showStationsOnMap(environmental_date_list[category_id].stations); // Show stations on the map
 }
 
 // Update the station select dropdown with new stations based on the category
@@ -95,6 +127,33 @@ function updateStationsDropdown(stations) {
     stationSelect.appendChild(option);
   });
 }
+
+function showStationsOnMap(stations) {
+  // Clear all previous markers
+  stationMarkers.forEach(marker => map.removeLayer(marker));
+  stationMarkers = []; // Reset the markers array
+  console.log('station location data', stationLocationData);
+  console.log('stations required', stations);
+  stations.forEach(stationName => {
+    const station = stationLocationData.find(s => String(s.STNAME) === String(stationName));
+
+    // Log found station data for debugging
+    console.log('Matching station:', station);
+
+    if (station && !isNaN(station.LAT_DEC) && !isNaN(station.LONGDEC)) {
+      console.log('map',map);
+      const marker = L.marker([station.LAT_DEC, station.LONGDEC])
+        .bindPopup(`<b>${station.STNAME}</b><br>${station.COUNTRY}`)
+        .addTo(map);
+
+      stationMarkers.push(marker); // Keep track of this marker
+    } else {
+      console.error(`Invalid coordinates for station: ${stationName}`, station);
+    }
+  });
+}
+
+
 
 // Function to add selected station to the array and UI
 function addStation() {
@@ -269,12 +328,6 @@ function updateSelectedCategoriesOnUI() {
   });
 }
 
-// Initialize the CSV data on page load
-document.addEventListener('DOMContentLoaded', function() {
-  loadCSVData(); // Load and parse the CSV data when the document is ready
-});
-
-
 // Add event listener to the select element to update the date range when category changes
 document.getElementById('category_select').addEventListener('change', function() {
   updateEnviromentalDate(parseInt(this.value)); // Convert the selected value to an integer
@@ -291,27 +344,55 @@ document.getElementById('add-category-button').addEventListener('click', addCate
 
 //********************************** WORLD MAP **********************************/
 document.addEventListener("DOMContentLoaded", function() { 
-  // Initialize the map, center it to a global view
-  var map = L.map('map').setView([15.8700, 100.9925], 5);  // Center around SE Asia with zoom level 5
+  // Initialize the map, set minZoom, and maxBounds
+  var map = L.map('map', {
+      minZoom: 3, // Set minimum zoom level to prevent zooming out too much
+      maxZoom: 19 // Maximum zoom level
+  }).setView([15.8700, 100.9925], 5);  // Initial center around SE Asia
+
+  // Set bounds to restrict map panning to a certain area (optional)
+  var bounds = L.latLngBounds(
+      L.latLng(-10, 40), // Southwest corner
+      L.latLng(50, 150) // Northeast corner
+  );
+  map.setMaxBounds(bounds);
+  map.on('drag', function() {
+      map.panInsideBounds(bounds, { animate: false });
+  });
 
   // Add a satellite tile layer
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 19
   }).addTo(map);
 
-  // Fetch the Mekong GeoJSON and add it to the map
+  // Fetch the Mekong GeoJSON and add it to the map with custom style and interactions
   fetch('/mekong_geojson')
     .then(response => response.json())  // Parse the response as JSON
     .then(data => {
-      // Add the GeoJSON to the map
+      // Custom style for the GeoJSON layer
+      const geojsonStyle = {
+          color: 'none',  // No border
+          weight: 0,      // No border thickness
+          fillColor: '#6baed6',  // Light blue fill color
+          fillOpacity: 0.7       // Fill opacity (transparency)
+      };
+
+      // Add the GeoJSON to the map with the custom style
       L.geoJSON(data, {
-        style: function (feature) {
-          return { color: 'blue' }; // Set the line color for Mekong River
-        }
+          style: geojsonStyle,
+          onEachFeature: function (feature, layer) {
+              // Add tooltips or popups (optional)
+              if (feature.properties && feature.properties.name) {
+                  layer.bindTooltip(feature.properties.name, {permanent: true, direction: 'auto'});
+              }
+          }
       }).addTo(map);
     })
     .catch(error => console.error('Error loading GeoJSON:', error));
 });
+
 
 
 //********************************** GENERATE VISUALIZATION **********************************/
@@ -320,28 +401,51 @@ document.getElementById('generate-visualization').addEventListener('click', func
   const selectedCategoriesList = JSON.stringify(selectedCategories);
   console.log(selectedCategories);  // Check if this has valid data before the fetch request
 
-    fetch('/generate_visualization', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/json'
-        },
-        body: selectedCategoriesList
-    })
-    .then(response => response.json())
-    .then(data => {
-        console.log('Charts:', data.charts);  // Debugging
-        const graphContainer = document.getElementById('graph-container');
-        graphContainer.innerHTML = '';  // Clear previous graphs
+  // Show loading GIF and hide the graph container
+  const mapViewDiv = document.getElementById('map-view');
+  const dataVisualizationDiv = document.getElementById('data-visualization-panel');
+  const graphDataImagesDiv = document.getElementById('graph-data-images');
+  const loadingGif = document.getElementById('loading-gif');
+  
+  // Show the loading GIF and hide other contents initially
+  mapViewDiv.style.width = '60%'; //change the width of map to be smaller
+  dataVisualizationDiv.style.width = '20%';
+  dataVisualizationDiv.style.display = 'block'; //show the data visualization div
+  graphDataImagesDiv.innerHTML = '';  // Clear any existing visualizations or graphs
+  loadingGif.style.display = 'block';  // Show the GIF
 
-        data.charts.forEach(chartPath => {
-            const img = document.createElement('img');
-            img.src = chartPath;
-            img.alt = 'Generated Chart';
-            img.style.width = '100%';  // Adjust image size as needed
-            graphContainer.appendChild(img);
-        });
-    })
-    .catch(error => {
-        console.error('Error generating visualization:', error);
-    });
+  // Make the fetch request to generate the visualizations
+  fetch('/generate_visualization', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json'
+      },
+      body: selectedCategoriesList
+  })
+  .then(response => response.json())
+  .then(data => {
+      console.log('Charts:', data.charts);  // Debugging
+      loadingGif.style.display = 'none';
+      // Display the graphs
+      data.charts.forEach(chartPath => {
+          const img = document.createElement('img');
+          img.src = chartPath;
+          img.alt = 'Generated Chart';
+          img.style.width = '100%';  // Adjust image size as needed
+          graphDataImagesDiv.appendChild(img);
+      });
+  })
+  .catch(error => {
+      console.error('Error generating visualization:', error);
+      // Hide the loading GIF in case of error
+      loadingGif.style.display = 'none';
+  });
+  //loadingGif.style.display = 'none';
+});
+
+//********************************** LOADING THE CSV **********************************/
+// Initialize the CSV data on page load
+document.addEventListener('DOMContentLoaded', function() {
+  loadCSVStationLocationData(); // Load and parse the station data
+  loadCSVDataForCategoriesDetails(); // Load and parse the CSV data when the document is ready
 });

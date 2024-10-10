@@ -1,5 +1,7 @@
 import glob
 import pandas as pd
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import os
 import re
@@ -21,7 +23,7 @@ def extract_station_name(filename):
     match = re.search(r'\[(.*?)\]', filename)
     if match:
         return match.group(1)
-    return os.path.basename(filename)
+    return os.path.basename(filename) 
 
 # Individual plotting functions for each category
 def plot_water_level(df, station_name, start_date, end_date):
@@ -36,13 +38,13 @@ def plot_water_level(df, station_name, start_date, end_date):
     df_filtered = df[(df['Timestamp'] >= pd.to_datetime(start_date).tz_localize('UTC')) & (df['Timestamp'] <= pd.to_datetime(end_date).tz_localize('UTC'))]
 
     plt.figure(figsize=(10, 6))
-    plt.bar(df_filtered['Timestamp'], df_filtered['Value'], color='blue')
+    plt.bar(df_filtered['Timestamp'], df_filtered['Value'], color='purple')
     plt.title(f'Water Level - {station_name}')
     plt.xlabel('Year')
     plt.ylabel('Water Level (m)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Water Level_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Water Level_{station_name}.png')
     plt.close()
 
 def plot_discharge_daily(df, station_name, start_date, end_date):
@@ -63,7 +65,7 @@ def plot_discharge_daily(df, station_name, start_date, end_date):
     plt.ylabel('Discharge (m³/s)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Discharge Daily_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Discharge Daily_{station_name}.png')
     plt.close()
 
 def plot_sediment_concentration(df, station_name, start_date, end_date):
@@ -84,7 +86,7 @@ def plot_sediment_concentration(df, station_name, start_date, end_date):
     plt.ylabel('Sediment Concentration (mg/l)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Sediment Concentration_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Sediment Concentration_{station_name}.png')
     plt.close()
 
 def plot_sediment_concentrationDSMP(df, station_name, start_date, end_date):
@@ -105,7 +107,7 @@ def plot_sediment_concentrationDSMP(df, station_name, start_date, end_date):
     plt.ylabel('Sediment Concentration (mg/l)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Sediment Concentration (DSMP)_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Sediment Concentration (DSMP)_{station_name}.png')
     plt.close()
 
 def plot_total_suspended_solids(df, station_name, start_date, end_date):
@@ -126,7 +128,7 @@ def plot_total_suspended_solids(df, station_name, start_date, end_date):
     plt.ylabel('Total Suspended Solids (mg/l)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Total Suspended Solids_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Total Suspended Solids_{station_name}.png')
     plt.close()
 
 def plot_rainfall(df, station_name, start_date, end_date):
@@ -147,7 +149,7 @@ def plot_rainfall(df, station_name, start_date, end_date):
     plt.ylabel('Rainfall (mm)')
     plt.grid(True)
     plt.xticks(rotation=45)
-    plt.savefig(f'./static/images/Rainfall Manual_{station_name}.png')
+    plt.savefig(f'./static/images/storage-data-img/Rainfall Manual_{station_name}.png')
     plt.close()
 
 # Function to handle different categories

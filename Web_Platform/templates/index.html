@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 </head>
-<body>
+<body> 
   <div id="settings-panel">
     <h1>Data Settings</h1>
     <div>
@@ -65,10 +65,15 @@
   <div id="data-visualization-panel">
     <h2>Data Visualization</h2>
     <div id="graph-container">
+      <img id="loading-gif" src="../static/images/loading-data.gif" alt="Loading..." style="margin: auto;" />
+      <!-- Loading GIF, hidden initially -->
+       <div id="graph-data-images"></div>
+      
       <!-- Dynamically load graphs here -->
       <canvas id="data-graph"></canvas>
     </div>
   </div>
+  
 
   <script src="../static/index.js"></script>
 </body>

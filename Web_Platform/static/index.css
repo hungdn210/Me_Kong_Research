@@ -4,7 +4,7 @@ body, html {
   font-family: Monospace, Arial, sans-serif;
 }
 
-h2 {
+h2 { 
   margin-top: 0;
 }
 
@@ -38,7 +38,7 @@ button:hover {
 }
 
 
-#settings-panel, #data-visualization-panel {
+#settings-panel {
   width: 20%;
   height: 100vh;
   overflow-y: auto;
@@ -48,7 +48,7 @@ button:hover {
 }
 
 #map-view {
-  width: 60%;
+  width: 80%;
   height: 100vh;
   float: left;
   position: relative;
@@ -69,6 +69,12 @@ button:hover {
   float: right;
   background-color: #ffffff;
   border-left: 1px solid #dddddd;
+  display: none;
+  height: 100vh;
+  width: 0%;
+  overflow-y: auto;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 /*Data Setting CSS */
@@ -193,11 +199,6 @@ button:hover {
   height: 100vh; /* Ensure the map takes up the whole vertical height */
 }
 
-#map-view {
-  width: 60%; /* Adjust the width as needed */
-  float: left;
-}
-
 #generate-visualization {
   border-radius: 20px;
   width: 70%;
@@ -205,4 +206,18 @@ button:hover {
   margin: 0 auto;
   margin-top: 10px;
   background-color: green;
+}
+
+#graph-container {
+  position: relative;
+  height: 100%; /* Adjust as needed for your layout */
+}
+
+#loading-gif {
+  width: 20%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none; /* Hidden by default */
 }
