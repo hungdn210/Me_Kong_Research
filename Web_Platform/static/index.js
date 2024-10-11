@@ -10,7 +10,7 @@ let selectedStations = []; // Array to store selected stations
 let environmental_date_list = []; 
 let selectedCategories = [];
 let stationLocationData = [];
-var curSelectedCategory;
+var curSelectedCategory; 
 var map; // Declare map globally
 stationMarkers = [];
 
@@ -469,10 +469,10 @@ document.getElementById('generate-visualization').addEventListener('click', func
       const viewButton = document.createElement('button');
       
       // Button to view larger graph
-      viewButton.textContent = "View Larger";
-      viewButton.style.width = "80%";
+      viewButton.textContent = "Open Detailed View";
+      viewButton.style.width = "40%";
       viewButton.style.borderRadius = "30px";
-      viewButton.style.marginLeft = "10%";
+      viewButton.style.marginLeft = "30%";
       viewButton.onclick = function() {
           showLargeGraph(chartJson);  // Open the modal and show the larger graph
       };

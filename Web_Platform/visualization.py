@@ -77,12 +77,14 @@ def plot_interactive_chart(df, station_name, start_date, end_date, y_label, titl
         mode='lines',
         line=dict(width=2, color='royalblue'),  # Line style
         fill='tozeroy',  # Fill the area under the line
-        marker=dict(size=4, color='blue', symbol='circle')  # Customize markers
+        marker=dict(size=4, color='blue', symbol='circle'),  # Customize markers
+        hovertemplate='Date: %{x|%d-%b-%Y}<br>Discharge: %{y} m³/s<extra></extra>'  # Full date format in hover tooltip
     )
 
     # Convert plot to JSON
     graph_json = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graph_json
+
 
 
 # Function to generate visualizations based on selected categories

@@ -12,7 +12,7 @@ def index():
 # Route to serve the GeoJSON file for the Mekong Basin map
 @app.route('/mekong_geojson')
 def mekong_geojson():
-    try:
+    try: 
         with open('static/data/mekong_basin.geojson') as f:  # Make sure this path is correct
             geojson_data = json.load(f)
         return jsonify(geojson_data)  # Send the GeoJSON as a JSON response
