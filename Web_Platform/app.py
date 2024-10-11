@@ -21,6 +21,7 @@ def mekong_geojson():
         return jsonify({"error": "GeoJSON file not found"}), 404
 
 # Route to handle visualization generation based on selected categories
+# Route to handle visualization generation based on selected categories
 @app.route('/generate_visualization', methods=['POST'])
 def generate_visualization():
     try:
@@ -30,19 +31,14 @@ def generate_visualization():
         if not selected_categories:
             raise ValueError("No categories provided")
 
-        generate_visualizations(selected_categories)  # Function to generate plots
+        charts = generate_visualizations(selected_categories)  # Get interactive charts in JSON format
 
-        chart_paths = []
-        for category in selected_categories:
-            for station in category['stations']:
-                chart_path = f"./static/images/storage-data-img/{category['categoryName']}_{station}.png"
-                chart_paths.append(chart_path)
-
-        return jsonify({'charts': chart_paths})
+        return jsonify({'charts': charts})
 
     except Exception as e:
         print(f"Error: {e}")  # Log the error for debugging
         return jsonify({'error': str(e)}), 400
+
 
 
 if __name__ == '__main__':

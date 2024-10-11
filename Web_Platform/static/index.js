@@ -2,6 +2,8 @@ let environment_date_text = document.getElementById('enviroment_date_text');
 let startDateInput = document.getElementById('start-date');
 let endDateInput = document.getElementById('end-date');
 let not_correct_date_range_element = document.getElementById('not_correct_date_range');
+let modal = document.getElementById("graphModal");
+let closeModalGraphButton = document.getElementsByClassName("close")[0];
 
 // Define the array to hold environmental data
 let selectedStations = []; // Array to store selected stations
@@ -54,29 +56,30 @@ function loadCSVDataForCategoriesDetails() {
 
 function loadCSVStationLocationData() {
   Papa.parse("../static/data/ListOfStationLocations.csv", {
-      download: true,
-      header: true, // This makes sure we are treating the first row as the header
-      complete: function(results) {
-          // Process the CSV data and push each row into the stationLocationData array
-          results.data.forEach(row => {
-              const station = {
-                  STCODE: row.STCODE,
-                  STNAME: row.STNAME,
-                  COUNTRY: row.COUNTRY,
-                  LONGDEC: parseFloat(row.LONGDEC),
-                  LAT_DEC: parseFloat(row.LAT_DEC),
-                  ALT: parseFloat(row.ALT),
-                  X_UTM: parseInt(row.X_UTM, 10),
-                  Y_UTM: parseInt(row.Y_UTM, 10)
-              };
-              stationLocationData.push(station); // Add each station object to the array
-          });
-
-          console.log("Station location data loaded:", stationLocationData); // Debugging
-      },
-      error: function(error) {
-          console.error("Error loading station location CSV:", error); // Handle errors
+    download: true,
+    header: true,
+    complete: function(results) {
+      stationLocationData = results.data.map(row => ({
+        STCODE: row.STCODE,
+        STNAME: row.STNAME,
+        COUNTRY: row.COUNTRY,
+        LONGDEC: parseFloat(row.LONGDEC),
+        LAT_DEC: parseFloat(row.LAT_DEC),
+        ALT: parseFloat(row.ALT),
+        X_UTM: parseInt(row.X_UTM, 10),
+        Y_UTM: parseInt(row.Y_UTM, 10)
+      }));
+      
+      // Once the data is loaded, initialize the map or update stations
+      if (environmental_date_list[curSelectedCategory]) {
+        showStationsOnMap(environmental_date_list[curSelectedCategory].stations);
       }
+
+      console.log("Station location data loaded:", stationLocationData);
+    },
+    error: function(error) {
+      console.error("Error loading station location CSV:", error);
+    }
   });
 }
 
@@ -102,6 +105,10 @@ function updateEnviromentalDate(category_id) {
   // Set default values for the date inputs to the start and end of the range
   startDateInput.value = environmental_date_list[category_id].startDate || '0000-00-00';
   endDateInput.value = environmental_date_list[category_id].endDate || '0000-00-00';
+
+  // Clear selected stations when a new category is selected
+  selectedStations = []; // Clear the selected stations array
+  updateSelectedStationsOnUI(); // Clear the UI display of selected stations
 
   // Update the stations dropdown based on the selected category
   updateStationsDropdown(environmental_date_list[category_id].stations);
@@ -134,6 +141,7 @@ function showStationsOnMap(stations) {
   stationMarkers = []; // Reset the markers array
   console.log('station location data', stationLocationData);
   console.log('stations required', stations);
+
   stations.forEach(stationName => {
     const station = stationLocationData.find(s => String(s.STNAME) === String(stationName));
 
@@ -141,9 +149,18 @@ function showStationsOnMap(stations) {
     console.log('Matching station:', station);
 
     if (station && !isNaN(station.LAT_DEC) && !isNaN(station.LONGDEC)) {
-      console.log('map',map);
+      console.log('map', map);
+      
+      // Define the popup content with station details
+      const popupContent = `
+        <b>${station.STNAME}</b><br>
+        Country: ${station.COUNTRY}<br>
+        Latitude: ${station.LAT_DEC.toFixed(4)}<br>
+        Longitude: ${station.LONGDEC.toFixed(4)}
+      `;
+
       const marker = L.marker([station.LAT_DEC, station.LONGDEC])
-        .bindPopup(`<b>${station.STNAME}</b><br>${station.COUNTRY}`)
+        .bindPopup(popupContent) // Use the custom popup content
         .addTo(map);
 
       stationMarkers.push(marker); // Keep track of this marker
@@ -152,6 +169,7 @@ function showStationsOnMap(stations) {
     }
   });
 }
+
 
 
 
@@ -345,7 +363,7 @@ document.getElementById('add-category-button').addEventListener('click', addCate
 //********************************** WORLD MAP **********************************/
 document.addEventListener("DOMContentLoaded", function() { 
   // Initialize the map, set minZoom, and maxBounds
-  var map = L.map('map', {
+  map = L.map('map', {
       minZoom: 3, // Set minimum zoom level to prevent zooming out too much
       maxZoom: 19 // Maximum zoom level
   }).setView([15.8700, 100.9925], 5);  // Initial center around SE Asia
@@ -397,6 +415,24 @@ document.addEventListener("DOMContentLoaded", function() {
 
 //********************************** GENERATE VISUALIZATION **********************************/
 
+function showLargeGraph(graphJson) {
+  modal.style.display = "block";
+  // Render the graph in the modal using Plotly
+  Plotly.newPlot('modal-graph', JSON.parse(graphJson));
+}
+
+closeModalGraphButton.onclick = function() {
+  modal.style.display = "none";
+  document.getElementById('modal-graph').innerHTML = ''; // Clear the graph content
+}
+
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+    document.getElementById('modal-graph').innerHTML = ''; // Clear the graph content
+  }
+}
+
 document.getElementById('generate-visualization').addEventListener('click', function() {
   const selectedCategoriesList = JSON.stringify(selectedCategories);
   console.log(selectedCategories);  // Check if this has valid data before the fetch request
@@ -416,29 +452,42 @@ document.getElementById('generate-visualization').addEventListener('click', func
 
   // Make the fetch request to generate the visualizations
   fetch('/generate_visualization', {
-      method: 'POST',
-      headers: {
-          'Content-Type': 'application/json'
-      },
-      body: selectedCategoriesList
+    method: 'POST',
+    headers: {
+        'Content-Type': 'application/json'
+    },
+    body: selectedCategoriesList
   })
   .then(response => response.json())
   .then(data => {
-      console.log('Charts:', data.charts);  // Debugging
-      loadingGif.style.display = 'none';
-      // Display the graphs
-      data.charts.forEach(chartPath => {
-          const img = document.createElement('img');
-          img.src = chartPath;
-          img.alt = 'Generated Chart';
-          img.style.width = '100%';  // Adjust image size as needed
-          graphDataImagesDiv.appendChild(img);
-      });
+    console.log('Charts:', data.charts);  // Debugging
+    loadingGif.style.display = 'none';
+
+    // Render each Plotly chart from the JSON
+    data.charts.forEach(chartJson => {
+      const graphDiv = document.createElement('div');
+      const viewButton = document.createElement('button');
+      
+      // Button to view larger graph
+      viewButton.textContent = "View Larger";
+      viewButton.style.width = "80%";
+      viewButton.style.borderRadius = "30px";
+      viewButton.style.marginLeft = "10%";
+      viewButton.onclick = function() {
+          showLargeGraph(chartJson);  // Open the modal and show the larger graph
+      };
+  
+      // Append the button and graph to the container
+      graphDataImagesDiv.appendChild(graphDiv);
+      graphDataImagesDiv.appendChild(viewButton);
+  
+      // Render the small graph
+      Plotly.newPlot(graphDiv, JSON.parse(chartJson));
+    });
   })
   .catch(error => {
-      console.error('Error generating visualization:', error);
-      // Hide the loading GIF in case of error
-      loadingGif.style.display = 'none';
+    console.error('Error generating visualization:', error);
+    loadingGif.style.display = 'none';
   });
   //loadingGif.style.display = 'none';
 });

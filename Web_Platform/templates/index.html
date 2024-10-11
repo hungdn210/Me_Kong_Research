@@ -9,6 +9,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
 </head>
 <body> 
   <div id="settings-panel">
@@ -71,6 +73,13 @@
       
       <!-- Dynamically load graphs here -->
       <canvas id="data-graph"></canvas>
+    </div>
+  </div>
+
+  <div id="graphModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modal-graph"></div> 
     </div>
   </div>
   
