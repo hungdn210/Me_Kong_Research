@@ -120,6 +120,20 @@ button:hover {
   opacity: 0.6;
 }
 
+.edit-button {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  padding-left: 10px;
+  margin-right: 10px;
+}
+
+.edit-button:hover {
+  opacity: 0.6;
+}
+
+
+
 .station-container {
   width: 100%;
   display: flex; 

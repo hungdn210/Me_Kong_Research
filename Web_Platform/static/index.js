@@ -327,6 +327,34 @@ function addCategoryToList() {
   }
 }
 
+function editCategory(index) {
+  // Get the category to edit
+  const categoryToEdit = selectedCategories[index];
+
+  // Remove the category from the selectedCategories array
+  selectedCategories.splice(index, 1); // Remove category by index
+  updateSelectedCategoriesOnUI(); // Re-render the list
+
+  // Prepopulate the form with the category's details
+  curSelectedCategory = environmental_date_list.findIndex(category => category.categoryName === categoryToEdit.categoryName);
+  
+  // Set the category dropdown to the correct category
+  document.getElementById('category_select').value = curSelectedCategory;
+
+  // Set the start date and end date inputs
+  startDateInput.value = categoryToEdit.startDate;
+  endDateInput.value = categoryToEdit.endDate;
+
+  // Set the selected stations
+  selectedStations = categoryToEdit.stations.slice(); // Copy the stations array
+  updateSelectedStationsOnUI(); // Update the UI with the selected stations
+
+  // Set the visualization type
+  visualizationType = categoryToEdit.visualizationType;
+  document.getElementById('visualization_type').value = visualizationType;
+}
+
+
 function updateSelectedCategoriesOnUI() {
   const container = document.getElementById('current_selected_element_div');
   container.innerHTML = ''; // Clear the container
@@ -352,7 +380,18 @@ function updateSelectedCategoriesOnUI() {
         <span style="font-weight: normal;"><b>Selected Stations:</b> ${category.stations.join(', ')}
     `;
 
+    // Create a container to hold both the edit and delete icons
+    const iconContainer = document.createElement('div');
+    iconContainer.style.display = 'flex'; // Use flexbox to align the icons horizontally
 
+    // Create the edit button using an image
+    const editIcon = document.createElement('img');
+    editIcon.src = '../static/images/edit-button.png';  // Path to your edit-button.png file
+    editIcon.alt = 'Edit';
+    editIcon.classList.add('edit-button');  // Add a class if you want to style the icon
+    editIcon.onclick = function() {
+      editCategory(index);
+    };
 
     // Create the delete button using an image
     const deleteButton = document.createElement('img');
@@ -363,9 +402,13 @@ function updateSelectedCategoriesOnUI() {
       deleteCategory(index);
     };
 
-    // Append the combined content and delete button to the category div
+    // Append the edit and delete icons to the icon container
+    iconContainer.appendChild(editIcon);
+    iconContainer.appendChild(deleteButton);
+
+    // Append the content and icon container to the category div
     categoryDiv.appendChild(categoryContent);
-    categoryDiv.appendChild(deleteButton);
+    categoryDiv.appendChild(iconContainer);
 
     // Append the category div to the container
     container.appendChild(categoryDiv);
