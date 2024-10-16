@@ -4,6 +4,7 @@ import plotly.express as px
 import json
 import re  # For regular expressions
 import plotly
+from multi_station_visualization import generate_multi_station_visualizations
 # Define paths for each category
 CATEGORY_PATHS = {
     'Water Level': './static/data/mekong_data/Water.Level/*.csv',
@@ -96,28 +97,37 @@ def generate_visualizations(selectedCategories):
         start_date = category['startDate']
         end_date = category['endDate']
         stations = category['stations']
+        visualization_type = category.get('visualizationType', 'visualize')
 
-        # Get the path for the category data
-        if category_name in CATEGORY_PATHS:
-            csv_files = glob.glob(CATEGORY_PATHS[category_name])
+        if visualization_type == 'compare':
+            # Call the multi-station comparison visualization function
+            comparison_charts = generate_multi_station_visualizations([category])
+            charts.extend(comparison_charts)
 
-            # Process each station
-            for file in csv_files:
-                station_name = extract_station_name(file)
-                if station_name in stations:
-                    df = pd.read_csv(file)
+        else:
+            # Get the path for the category data
+            if category_name in CATEGORY_PATHS:
+                csv_files = glob.glob(CATEGORY_PATHS[category_name])
 
-                    if category_name == 'Water Level':
-                        graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Water Level (m)", title=f"Water Level - {station_name}")
-                    elif category_name == 'Discharge Daily':
-                        graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Discharge (m³/s)", title=f"Discharge Daily - {station_name}")
-                    elif category_name == 'Sediment Concentration':
-                        graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Sediment Concentration (mg/l)", title=f"Sediment Concentration - {station_name}")
-                    elif category_name == 'Total Suspended Solids':
-                        graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Total Suspended Solids (mg/l)", title=f"Total Suspended Solids - {station_name}")
-                    elif category_name == 'Rainfall Manual':
-                        graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Rainfall (mm)", title=f"Rainfall - {station_name}")
+                # Process each station
+                for file in csv_files:
+                    station_name = extract_station_name(file)
+                    if station_name in stations:
+                        df = pd.read_csv(file)
 
-                    charts.append(graph_json)
+                        if category_name == 'Water Level':
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Water Level (m)", title=f"Water Level - {station_name}")
+                        elif category_name == 'Discharge Daily':
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Discharge (m³/s)", title=f"Discharge Daily - {station_name}")
+                        elif category_name == 'Sediment Concentration':
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Sediment Concentration (mg/l)", title=f"Sediment Concentration - {station_name}")
+                        elif category_name == 'Sediment Concentration (DSMP)':  # Add the missing check here
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Sediment Concentration (mg/l)", title=f"Sediment Concentration (DSMP) - {station_name}")
+                        elif category_name == 'Total Suspended Solids':
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Total Suspended Solids (mg/l)", title=f"Total Suspended Solids - {station_name}")
+                        elif category_name == 'Rainfall Manual':
+                            graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Rainfall (mm)", title=f"Rainfall - {station_name}")
+
+                        charts.append(graph_json)
     
     return charts

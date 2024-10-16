@@ -15,6 +15,7 @@
 <body> 
   <div id="settings-panel">
     <h1>Data Settings</h1>
+
     <div>
       <span id="enviroment_date_text"></span>
       <label for="category">Select Category:</label>
@@ -22,11 +23,20 @@
         <!-- Options will be dynamically added here -->
       </select>
     </div>
+
+    <div>
+      <label for="visualization_type">Visualization Type:</label>
+      <select id="visualization_type">
+        <option value="visualize">Visualize (Single Station)</option>
+        <option value="compare">Compare (Multiple Stations)</option>
+      </select>
+    </div>
+
     <div>
       <label for="time-range">Select Time Range:</label>
       <input type="date" id="start-date"> to 
       <input type="date" id="end-date">
-    </div>
+    </div>  
     <div class="station-container">
       <div>
         <div id="selected-stations-div">
@@ -47,6 +57,7 @@
     </div>
     
     <span id="not_correct_date_range">Invalid date range selected. Please select a date range that falls within the allowed period.</span>
+    <span id="amount-station-selection-error-alert">Please select at least 2 stations for comparison visualization.</span>
     <button id="add-category-button">Add Category</button>
 
     <div>

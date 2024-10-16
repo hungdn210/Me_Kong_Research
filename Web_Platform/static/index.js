@@ -4,6 +4,7 @@ let endDateInput = document.getElementById('end-date');
 let not_correct_date_range_element = document.getElementById('not_correct_date_range');
 let modal = document.getElementById("graphModal");
 let closeModalGraphButton = document.getElementsByClassName("close")[0];
+let amountStationSelectionErrorAlert = document.getElementById('amount-station-selection-error-alert');
 
 // Define the array to hold environmental data
 let selectedStations = []; // Array to store selected stations
@@ -11,6 +12,7 @@ let environmental_date_list = [];
 let selectedCategories = [];
 let stationLocationData = [];
 var curSelectedCategory; 
+let visualizationType = 'visualize';
 var map; // Declare map globally
 stationMarkers = [];
 
@@ -275,6 +277,15 @@ function addCategoryToList() {
       selectedStations = environmental_date_list[curSelectedCategory].stations.slice();
     }
 
+    // Check if "compare" mode is selected and validate that there are 2 or more stations
+    if (visualizationType === 'compare' && selectedStations.length < 2) {
+      amountStationSelectionErrorAlert.style.display = 'block'; // Show the error alert
+      console.log("Please select at least 2 stations for comparison.");
+      return; // Stop further execution
+    } else {
+      amountStationSelectionErrorAlert.style.display = 'none'; // Hide error if conditions are met
+    }
+
     // Add the selected category to the list
     const selectedCategoryName = environmental_date_list[curSelectedCategory].categoryName;
     
@@ -287,7 +298,8 @@ function addCategoryToList() {
       categoryName: selectedCategoryName,
       startDate: selectedStartDate,
       endDate: selectedEndDate,
-      stations: selectedStations.slice() // Add the stations array to the category
+      stations: selectedStations.slice(), // Add the stations array to the category
+      visualizationType: visualizationType
     };
 
     // Check if the category already exists in the selectedCategories array
@@ -295,7 +307,8 @@ function addCategoryToList() {
       category.categoryName === newCategory.categoryName &&
       category.startDate === newCategory.startDate &&
       category.endDate === newCategory.endDate &&
-      JSON.stringify(category.stations) === JSON.stringify(newCategory.stations)
+      JSON.stringify(category.stations) === JSON.stringify(newCategory.stations) &&
+      category.visualizationType === newCategory.visualizationType // Compare visualization type as well
     );
 
     if (categoryExists) {
@@ -306,7 +319,6 @@ function addCategoryToList() {
       console.log("Selected Categories Array:", selectedCategories);
       updateSelectedCategoriesOnUI();
     }
-
     // Clear the selected stations array after adding the category
     selectedStations = [];
     updateSelectedStationsOnUI(); // Clear the selected stations from the UI
@@ -326,7 +338,21 @@ function updateSelectedCategoriesOnUI() {
 
     // Combine category and stations info using innerHTML with line breaks
     const categoryContent = document.createElement('span');
-    categoryContent.innerHTML = `<b>${category.categoryName}:</b> ${category.startDate} to ${category.endDate}<br><span style="font-weight: normal;"><b>Selected stations:</b> ${category.stations.join(', ')}</span>`;
+
+    // Use a clear conditional assignment for the current visualization type
+    const currentVisualizationType = category.visualizationType === "visualize" 
+        ? "Single Station Data Visualization" 
+        : "Multiple Stations Comparison";
+
+    // Create the content with more readable formatting and clearer variable use
+    categoryContent.innerHTML = `
+        <b>${category.categoryName}:</b> ${category.startDate} to ${category.endDate}<br>
+        <span style="font-weight: bold;">Type
+        :</span> ${currentVisualizationType}<br>
+        <span style="font-weight: normal;"><b>Selected Stations:</b> ${category.stations.join(', ')}
+    `;
+
+
 
     // Create the delete button using an image
     const deleteButton = document.createElement('img');
@@ -358,6 +384,12 @@ document.getElementById('add-station-button').addEventListener('click', addStati
 document.getElementById('add-category-button').addEventListener('click', addCategoryToList);
 
 
+//********************************** VISUALISATION TYPE CHANGED **********************************/
+document.getElementById('visualization_type').addEventListener('change', function() {
+  // Update the variable when the user selects an option
+  visualizationType = this.value;
+  console.log("Visualization Type selected:", visualizationType);
+});
 
 
 //********************************** WORLD MAP **********************************/

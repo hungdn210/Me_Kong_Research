@@ -89,6 +89,10 @@ button:hover {
   color: red;
   display: none;
 }
+#amount-station-selection-error-alert {
+  color: red;
+  display: none;
+}
 
 .current_selected_element_div {
   padding: 10px;
@@ -278,4 +282,17 @@ button:hover {
   color: black;
   text-decoration: none;
   cursor: pointer;
+}
+
+/* VISUALISATION TYPE SELECT */
+#visualization_type {
+  width: 100%;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#visualization_type:focus {
+  outline: none;
+  border-color: #007bff;
 }
