@@ -5,6 +5,7 @@ let not_correct_date_range_element = document.getElementById('not_correct_date_r
 let modal = document.getElementById("graphModal");
 let closeModalGraphButton = document.getElementsByClassName("close")[0];
 let amountStationSelectionErrorAlert = document.getElementById('amount-station-selection-error-alert');
+const dataVisualizationPanel = document.getElementById('data-visualization-panel');
 
 // Define the array to hold environmental data
 let selectedStations = []; // Array to store selected stations
@@ -512,59 +513,70 @@ document.getElementById('generate-visualization').addEventListener('click', func
   const selectedCategoriesList = JSON.stringify(selectedCategories);
   console.log(selectedCategories);  // Check if this has valid data before the fetch request
 
-  // Show loading GIF and hide the graph container
-  const mapViewDiv = document.getElementById('map-view');
-  const dataVisualizationDiv = document.getElementById('data-visualization-panel');
-  const graphDataImagesDiv = document.getElementById('graph-data-images');
-  const loadingGif = document.getElementById('loading-gif');
+  if (selectedCategories.length === 0) {
+    // Show the error message if no categories are selected
+    document.getElementById('no-category-selected-alert').style.display = 'block';
+    setTimeout(function() {
+      document.getElementById('no-category-selected-alert').style.display = 'none';
+    }, 5000);
+    return; // Exit the function to prevent further execution
+  } else {
+    // Hide the error message if categories are selected
+    document.getElementById('no-category-selected-alert').style.display = 'none';
+    // Show loading GIF and hide the graph container
+    const mapViewDiv = document.getElementById('map-view');
+    const dataVisualizationDiv = document.getElementById('data-visualization-panel');
+    const graphDataImagesDiv = document.getElementById('graph-data-images');
+    const loadingGif = document.getElementById('loading-gif');
+    
+    // Show the loading GIF and hide other contents initially
+    mapViewDiv.style.width = '60%'; //change the width of map to be smaller
+    dataVisualizationDiv.style.width = '20%';
+    dataVisualizationDiv.style.display = 'block'; //show the data visualization div
+    graphDataImagesDiv.innerHTML = '';  // Clear any existing visualizations or graphs
+    loadingGif.style.display = 'block';  // Show the GIF
   
-  // Show the loading GIF and hide other contents initially
-  mapViewDiv.style.width = '60%'; //change the width of map to be smaller
-  dataVisualizationDiv.style.width = '20%';
-  dataVisualizationDiv.style.display = 'block'; //show the data visualization div
-  graphDataImagesDiv.innerHTML = '';  // Clear any existing visualizations or graphs
-  loadingGif.style.display = 'block';  // Show the GIF
-
-  // Make the fetch request to generate the visualizations
-  fetch('/generate_visualization', {
-    method: 'POST',
-    headers: {
-        'Content-Type': 'application/json'
-    },
-    body: selectedCategoriesList
-  })
-  .then(response => response.json())
-  .then(data => {
-    console.log('Charts:', data.charts);  // Debugging
-    loadingGif.style.display = 'none';
-
-    // Render each Plotly chart from the JSON
-    data.charts.forEach(chartJson => {
-      const graphDiv = document.createElement('div');
-      const viewButton = document.createElement('button');
-      
-      // Button to view larger graph
-      viewButton.textContent = "Open Detailed View";
-      viewButton.style.width = "40%";
-      viewButton.style.borderRadius = "30px";
-      viewButton.style.marginLeft = "30%";
-      viewButton.onclick = function() {
-          showLargeGraph(chartJson);  // Open the modal and show the larger graph
-      };
+    // Make the fetch request to generate the visualizations
+    fetch('/generate_visualization', {
+      method: 'POST',
+      headers: {
+          'Content-Type': 'application/json'
+      },
+      body: selectedCategoriesList
+    })
+    .then(response => response.json())
+    .then(data => {
+      console.log('Charts:', data.charts);  // Debugging
+      loadingGif.style.display = 'none';
   
-      // Append the button and graph to the container
-      graphDataImagesDiv.appendChild(graphDiv);
-      graphDataImagesDiv.appendChild(viewButton);
-  
-      // Render the small graph
-      Plotly.newPlot(graphDiv, JSON.parse(chartJson));
+      // Render each Plotly chart from the JSON
+      data.charts.forEach(chartJson => {
+        const graphDiv = document.createElement('div');
+        const viewButton = document.createElement('button');
+        
+        // Button to view larger graph
+        viewButton.textContent = "Open Detailed View";
+        viewButton.style.width = "60%";
+        viewButton.style.borderRadius = "30px";
+        viewButton.style.marginLeft = "20%";
+        viewButton.onclick = function() {
+            showLargeGraph(chartJson);  // Open the modal and show the larger graph
+        };
+    
+        // Append the button and graph to the container
+        graphDataImagesDiv.appendChild(graphDiv);
+        graphDataImagesDiv.appendChild(viewButton);
+    
+        // Render the small graph
+        Plotly.newPlot(graphDiv, JSON.parse(chartJson));
+      });
+    })
+    .catch(error => {
+      console.error('Error generating visualization:', error);
+      loadingGif.style.display = 'none';
     });
-  })
-  .catch(error => {
-    console.error('Error generating visualization:', error);
-    loadingGif.style.display = 'none';
-  });
-  //loadingGif.style.display = 'none';
+    //loadingGif.style.display = 'none';
+  }
 });
 
 //********************************** LOADING THE CSV **********************************/

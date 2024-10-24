@@ -40,30 +40,31 @@ def plot_interactive_chart(df, station_name, start_date, end_date, y_label, titl
     
     # Customize title and axis fonts
     fig.update_layout(
+        autosize=True,  # Make the chart resize based on the container
         title={
             'text': title,
-            'y': 0.9,  # Adjust vertical placement
-            'x': 0.5,  # Center title
+            'y': 0.9,
+            'x': 0.5,
             'xanchor': 'center',
             'yanchor': 'top',
-            'font': dict(size=24, color='black')  # Larger title
+            'font': dict(size=18, color='black')  # You can use percentages or default sizes
         },
-        xaxis_title='Time (years)',  # X-axis label
-        yaxis_title=y_label,  # Y-axis label
+        margin=dict(l=0, r=0, t=70, b=40),  # Adjust margins for dynamic scaling
+        xaxis_title='Time (years)',
+        yaxis_title=y_label,
         font=dict(
             family="Arial, sans-serif",
-            size=12,
+            size=12,  # General font size
             color="black"
         ),
-        plot_bgcolor="white",  # Set background to white
-        hovermode="x unified",  # Better hover information
-        margin=dict(l=40, r=40, t=80, b=40),  # Add margin to prevent cutoff
+        plot_bgcolor="white",
+        hovermode="x unified",
         xaxis=dict(
             showline=True,
             showgrid=True,
             linecolor='black',
             gridcolor='LightGrey',
-            tickformat="%Y"  # Show year format on X-axis
+            tickformat="%Y"
         ),
         yaxis=dict(
             showline=True,
@@ -72,6 +73,7 @@ def plot_interactive_chart(df, station_name, start_date, end_date, y_label, titl
             gridcolor='LightGrey'
         )
     )
+
 
     # Update line and area fill appearance
     fig.update_traces(
@@ -121,7 +123,7 @@ def generate_visualizations(selectedCategories):
                             graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Discharge (m³/s)", title=f"Discharge Daily - {station_name}")
                         elif category_name == 'Sediment Concentration':
                             graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Sediment Concentration (mg/l)", title=f"Sediment Concentration - {station_name}")
-                        elif category_name == 'Sediment Concentration (DSMP)':  # Add the missing check here
+                        elif category_name == 'Sediment Concentration (DSMP)': 
                             graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Sediment Concentration (mg/l)", title=f"Sediment Concentration (DSMP) - {station_name}")
                         elif category_name == 'Total Suspended Solids':
                             graph_json = plot_interactive_chart(df, station_name, start_date, end_date, y_label="Total Suspended Solids (mg/l)", title=f"Total Suspended Solids - {station_name}")

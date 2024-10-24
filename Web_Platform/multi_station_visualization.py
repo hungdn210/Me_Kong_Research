@@ -1,6 +1,6 @@
 import glob
 import pandas as pd
-import plotly.express as px
+import plotly.express as px 
 import json
 import re  # For regular expressions
 import plotly
@@ -32,12 +32,6 @@ def plot_comparison_chart(df_list, station_names, start_date, end_date, y_label,
     combined_df['Timestamp'] = pd.to_datetime(combined_df['Timestamp (UTC+07:00)'], utc=True)
     combined_df_filtered = combined_df[(combined_df['Timestamp'] >= pd.to_datetime(start_date).tz_localize('UTC')) &
                                        (combined_df['Timestamp'] <= pd.to_datetime(end_date).tz_localize('UTC'))]
-    
-    # Determine if the data is Rainfall and set y-axis range accordingly
-    if 'Rainfall' in title:
-        yaxis_range = [0, 300]  # You can adjust this range to fit the typical rainfall range
-    else:
-        yaxis_range = [0, 20000]
 
     # Create an area plot with Plotly for comparison
     fig = px.line(combined_df_filtered,
@@ -50,24 +44,25 @@ def plot_comparison_chart(df_list, station_names, start_date, end_date, y_label,
 
     # Customize title and axis fonts
     fig.update_layout(
+        autosize=True,  # Make the chart resize based on the container
         title={
             'text': title,
             'y': 0.9,
             'x': 0.5,
             'xanchor': 'center',
             'yanchor': 'top',
-            'font': dict(size=24, color='black')
+            'font': dict(size=18, color='black')  # You can use percentages or default sizes
         },
+        margin=dict(l=0, r=0, t=70, b=40),  # Adjust margins for dynamic scaling
         xaxis_title='Time (years)',
         yaxis_title=y_label,
         font=dict(
             family="Arial, sans-serif",
-            size=12,
+            size=12,  # General font size
             color="black"
         ),
         plot_bgcolor="white",
         hovermode="x unified",
-        margin=dict(l=40, r=40, t=80, b=40),
         xaxis=dict(
             showline=True,
             showgrid=True,
