@@ -72,12 +72,12 @@ def process_category(csv_files, category_name):
 
 # Define paths for all categories
 categories = {
-    "Discharge Daily": r"D:\Project\1_Me_Kong_Project\data\mrc\Discharge.Daily\*.csv",
-    "Rainfall Manual": r"D:\Project\1_Me_Kong_Project\data\mrc\Rainfall.Manual\*.csv",
-    "Sediment Concentration": r"D:\Project\1_Me_Kong_Project\data\mrc\Sediment.Concentration\*.csv",
-    "Sediment Concentration (DSMP)": r"D:\Project\1_Me_Kong_Project\data\mrc\Sediment.Concentration(DSMP)\*.csv",
-    "Total Suspended Solids": r"D:\Project\1_Me_Kong_Project\data\mrc\Total.Suspended.Solids\*.csv",
-    "Water Level": r"D:\Project\1_Me_Kong_Project\data\mrc\Water.Level\*.csv"
+    "Discharge Daily": r"./data/mrc/Discharge.Daily/*.csv",
+    "Rainfall Manual": r"./data/mrc/Rainfall.Manual/*.csv",
+    "Sediment Concentration": r"./data/mrc/Sediment.Concentration/*.csv",
+    "Sediment Concentration (DSMP)": r"./data/mrc/Sediment.Concentration (DSMP)/*.csv",
+    "Total Suspended Solids": r"./data/mrc/Total.Suspended.Solids/*.csv",
+    "Water Level": r"./data/mrc/Water.Level/*.csv"
 }
 
 # Initialize summary variables

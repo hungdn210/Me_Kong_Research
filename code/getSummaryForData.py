@@ -38,20 +38,27 @@ def calculate_years(start_date, end_date):
 
 # Path to your CSV files
 
-csv_files = glob.glob(r"D:\Project\1_Me_Kong_Project\data\mrc\Discharge.Daily\*.csv")
+# Set the base path relative to the current Python file's directory
+base_path = os.path.join(os.path.dirname(__file__), '..', 'data', 'mrc')
+
+csv_files = glob.glob(os.path.join(base_path, 'Discharge.Daily', '*.csv'))
 name_summary = "Discharge.Daily"
 
-csv_files = glob.glob(r"D:\Project\1_Me_Kong_Project\data\mrc\Rainfall.Manual\*.csv")
-name_summary = "Rainfall.Manual"
+# Uncomment the section you want to run for different categories:
+#csv_files = glob.glob(os.path.join(base_path, 'Rainfall.Manual', '*.csv'))
+#name_summary = "Rainfall.Manual"
 
-csv_files = glob.glob(r"D:\Project\1_Me_Kong_Project\data\mrc\Sediment.Concentration\*.csv")
-name_summary = "Sediment.Concentration"
+#csv_files = glob.glob(os.path.join(base_path, 'Sediment.Concentration', '*.csv'))
+#name_summary = "Sediment.Concentration"
 
-csv_files = glob.glob(r"D:\Project\1_Me_Kong_Project\data\mrc\Total.Suspended.Solids\*.csv")
-name_summary = "Total.Suspended.Solids"
+#csv_files = glob.glob(os.path.join(base_path, 'Sediment.Concentration (DSMP)', '*.csv'))
+#name_summary = "Sediment.Concentration(DSMP)"
 
-csv_files = glob.glob(r"D:\Project\1_Me_Kong_Project\data\mrc\Water.Level\*.csv")
-name_summary = "Water.Level"
+#csv_files = glob.glob(os.path.join(base_path, 'Total.Suspended.Solids', '*.csv'))
+#name_summary = "Total.Suspended.Solids"
+
+#csv_files = glob.glob(os.path.join(base_path, 'Water.Level', '*.csv'))
+#name_summary = "Water.Level"
 
 # Initialize a list to hold the data for each station
 summary_data = []
